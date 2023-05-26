@@ -9,7 +9,7 @@ import { getToken } from "@/helper/auth.js";
 const http = {
   init() {
     Vue.use(VueAxios, axios);
-    Vue.axios.defaults.baseURL = "http://10.1.204.16:8003/ecm/v1/";
+    Vue.axios.defaults.baseURL = "http://10.1.204.16:8007/ecm/v1/";
   },
 
   /**
