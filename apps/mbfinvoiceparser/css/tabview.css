@@ -1,0 +1,255 @@
+    #mobifoneTabView table {
+        margin-left: .5em;
+    }
+    
+    #mobifoneTabView tr:hover {
+        background-color: transparent;
+    }
+    
+    #mobifoneTabView td {
+        border: none;
+        padding: 0;
+    }
+    
+    #mobifoneTabView .key {
+        color: #333333;
+        padding-right: .5em;
+        padding-left: 26px;
+        vertical-align: top;
+        font-weight: bold;
+        position: relative;
+        height: 30px;
+        font-weight: 700;
+    }
+    
+    #mobifoneTabView .key::after {
+        content: "";
+        position: absolute;
+        width: 18px;
+        height: 18px;
+        background: #35c72c;
+        left: 0;
+        border-radius: 50%;
+        top: 2px;
+    }
+    
+    #mobifoneTabView .key::before {
+        content: "";
+        position: absolute;
+        width: 3px;
+        height: 7px;
+        border: solid white;
+        left: 6px;
+        z-index: 2;
+        border-width: 0 3px 3px 0;
+        transform: rotate(38deg);
+        top: 5px;
+    }
+    
+    #mobifoneTabView .value {
+        width: 100%;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        max-width: 1px;
+        white-space: pre-wrap;
+    }
+    
+    #mobifoneTabView .value:hover {
+        white-space: pre-wrap;
+    }
+    
+    #mobifoneTabView .title-info-xml span {
+        font-weight: bold;
+    }
+    
+    #mobifoneTabView .title-info-xml {
+        text-align: left;
+        position: relative;
+        font-size: 17px;
+        padding-left: 50px;
+    }
+    
+    #mobifoneTabView .title-info-xml::after {
+        content: "";
+        position: absolute;
+        width: 3px;
+        height: 6px;
+        border: solid white;
+        left: 7px;
+        z-index: 2;
+        border-width: 0 2px 2px 0;
+        transform: rotate(38deg);
+        top: 8px;
+    }
+    
+    #mobifoneTabView .title-info-xml::before {
+        content: "XML";
+        background: #35c72c;
+        padding: 1px 7px 1px 17px;
+        border-radius: 5px;
+        font-size: 11px;
+        color: white;
+        font-weight: 500;
+        margin-right: 5px;
+        position: absolute;
+        height: 23px;
+        left: 0;
+    }
+    
+    #mobifoneTabView .invoice-info {
+        text-align: left;
+    }
+    
+    #mobifoneTabView .invoice-info {
+        display: flex;
+        align-items: center;
+        font-size: 16px;
+        margin: 10px 5px;
+        font-weight: 500;
+    }
+    
+    #mobifoneTabView .invoice-info span {
+        background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiB2ZXJzaW9uPSIxLjEiIGhlaWdodD0iMTYiPjxwYXRoIGZpbGw9IiM0OWFiZWEiIGQ9Im0yLjUgMWMtMC4yOCAwLTAuNSAwLjIyLTAuNSAwLjV2MTNjMCAwLjI4IDAuMjIgMC41IDAuNSAwLjVoMTFjMC4yOCAwIDAuNS0wLjIyIDAuNS0wLjV2LTEwLjVsLTMtM2gtOC41em0xLjUgMmg2djFoLTZ2LTF6bTAgM2g1djFoLTV2LTF6bTAgM2g4djFoLTh2LTF6bTAgM2g0djFoLTR2LTF6Ii8+PC9zdmc+Cg==);
+        background-repeat: no-repeat;
+        width: 21px;
+        height: 21px;
+        display: inline-block;
+        background-position: center;
+        background-size: 19px;
+    }
+    
+    
+    #validation-invoice-content .green-tick-check-mark-successful::before {
+        content: "\00a0\2713\00a0";
+        color: #fff;
+        /* The following positions my tick in the center, 
+         * but you could just overlay the entire box
+         * with a full after element with a background if you want to */
+        /* position: absolute; */
+        /* left: 26%;
+        top: 48%;
+        width: 24px; */
+        background-color: green;
+        border-radius: 50%;
+        text-align: center;
+        -webkit-transform: translate(-50%,-50%);
+        -moz-transform: translate(-50%,-50%);
+        -ms-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
+    }
+
+    #validation-invoice-content .red-tick-check-mark-failed::before {
+        content: "\00a0\2717\00a0";
+        color: #fff;
+        /* The following positions my tick in the center, 
+         * but you could just overlay the entire box
+         * with a full after element with a background if you want to */
+        /* position: absolute; */
+        /* left: 26%;
+        top: 48%;
+        width: 24px; */
+        background-color: red;
+        border-radius: 50%;
+        text-align: center;
+        -webkit-transform: translate(-50%,-50%);
+        -moz-transform: translate(-50%,-50%);
+        -ms-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
+    }
+    
+    
+    #validation-invoice-content-table tbody tr td {
+        border: none;
+        padding: 0 30px;
+    }
+    
+    #validation-invoice-content-table tbody tr {
+        background-color: white;
+    }
+      
+    #validation-invoice-content-table tbody tr span.status_invoice_valid {
+        border-radius: 3px;
+        padding: 4px;
+        background-color: #F6FFED;
+        border: 1px solid #B7EB8F;
+        color: #52C41A;
+        font-weight: 400;
+        font-size: 14px;
+    }
+      
+    #validation-invoice-content-table tbody tr span.status_invoice_invalid {
+        border-radius: 3px;
+        padding: 4px;
+        background-color: #FFF0F6;
+        border: 1px solid #F5222D;
+        color: #F5222D;
+        font-weight: 400;
+        font-size: 14px;
+    }
+      
+    #validation-invoice-content-table tbody tr span.status_sign_unexpired {
+        border-radius: 3px;
+        padding: 4px;
+        background-color: #F6FFED;
+        border: 1px solid #B7EB8F;
+        color: #52C41A;
+        font-weight: 400;
+        font-size: 14px;
+        margin-left: 7px;
+    }
+      
+    #validation-invoice-content-table tbody tr span.status_sign_expired {
+        border-radius: 3px;
+        padding: 4px;
+        background-color: #FFF0F6;
+        border: 1px solid #F5222D;
+        color: #F5222D;
+        font-weight: 400;
+        font-size: 14px;
+        margin-left: 7px;
+    }
+      
+    #validation-invoice-content-table tbody tr div.status_sign_not_in_digi_sign_catalog {
+        display: inline-block;
+        border-radius: 3px;
+        padding: 2px;
+        background-color: #FFF0F6;
+        border: 1px solid #FFADD2;
+        color: #EB2F96;
+        font-weight: 400;
+        font-size: 14px;
+        white-space: pre-line;
+        margin-left: 7px;
+        width: 120px;
+    }
+
+    #validation-invoice-content-table tbody tr td button#close-validation-invoice-content-popup {
+        background-color: #0082C8;
+        border-radius: 6px;
+        border-color: #757575;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        color: #FFFFFF;
+        padding: 12px;
+    }
+
+    #validation-invoice-content-table tbody tr td button#close-validation-invoice-content-popup:hover {
+        border-color: #FFFFFF;
+    }
+
+    #validation-invoice-content-table tbody tr td button#close-validation-invoice-content-popup-x-sym {
+        position: absolute;
+        /* right: 25%; */
+        /* transform: translateX(518px); */
+        background-color: white;
+        border: none;
+        color: black;
+        border-radius: 0;
+        margin: 0;
+    }
+
+    /* #validation-invoice-content-table tbody tr td button#close-validation-invoice-content-popup-x-sym:hover {
+        background-color: #ff0000;
+    } */

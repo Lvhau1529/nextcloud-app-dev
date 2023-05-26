@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <!--
+    SPDX-FileCopyrightText: haulv <lvhau1529@gmail.com>
+    SPDX-License-Identifier: CC0-1.0
+    -->
+    <id>mbfecm</id>
+    <name>Mbf Ecm</name>
+    <summary>mbf-ecm</summary>
+    <description><![CDATA[mbf-ecm]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="lvhau1529@gmail.com" homepage="https://apps.nextcloud.com/">haulv</author>
+    <namespace>MbfEcm</namespace>
+    <category>customization</category>
+    <bugs>https://apps.nextcloud.com/</bugs>
+    <dependencies>
+        <nextcloud min-version="25" max-version="25"/>
+    </dependencies>
+    <navigations>
+        <navigation>
+            <name>Mbf Ecm</name>
+            <route>mbfecm.page.index</route>
+        </navigation>
+    </navigations>
+</info>

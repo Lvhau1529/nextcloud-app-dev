@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <!--
+    SPDX-FileCopyrightText: TuyNV <tuynv.8889@gmail.com>
+    SPDX-License-Identifier: CC0-1.0
+    -->
+    <id>files_xmlviewer</id>
+    <name>Files Xml Viewer</name>
+    <summary>Display tax xml to html</summary>
+    <description><![CDATA[Display tax xml to html]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="tuynv.8889@gmail.com" >TuyNV</author>
+    <namespace>Files_XMLViewer</namespace>
+    <category>files</category>
+    <bugs>https://github.com/nextcloud</bugs>
+    <dependencies>
+        <nextcloud min-version="25" max-version="25"/>
+    </dependencies>
+</info>

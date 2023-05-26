@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <!--
+    SPDX-FileCopyrightText: MobiFone It <hung.nduy@mobifone.vn>
+    SPDX-License-Identifier: CC0-1.0
+    -->
+    <id>mbfinvoicemappingpdf</id>
+    <name>Mbf Invoice Mapping PDF</name>
+    <summary>Liên kết file pdf với file xml cùng tên</summary>
+    <description><![CDATA[Liên kết file pdf với file xml cùng tên]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="hung.nduy@mobifone.vn" homepage="https://it.mobifone.vn/">MobiFone It</author>
+    <namespace>MBFInvoiceMappingPDF</namespace>
+    <category>tools</category>
+    <bugs>https://it.mobifone.vn/</bugs>
+    <dependencies>
+        <nextcloud min-version="24" max-version="24"/>
+    </dependencies>
+</info>

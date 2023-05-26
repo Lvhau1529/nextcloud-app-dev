@@ -1,0 +1,3506 @@
+{
+  "code": "200",
+  "message": "Thành công",
+  "result": [
+    {
+      "file_id": 152,
+      "path": "",
+      "type": "folder"
+    },
+    {
+      "file_id": 5450,
+      "path": "03.[ECM][1.5]_Phuong an.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 74531,
+      "path": "1.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 11561,
+      "path": "111/",
+      "type": "folder"
+    },
+    {
+      "file_id": 73428,
+      "path": "111/1.png",
+      "type": "file"
+    },
+    {
+      "file_id": 11575,
+      "path": "111/20211222_VB_DEN_6839_MOBIFONE-CSKH-KHCN_20211222_20211222_090206.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 12748,
+      "path": "111/20220916_Bao cao hoan thanh phat trien MobiFone Meeting_V01.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 12747,
+      "path": "111/20221026_Trien khai he thong khao sat trai nghiem khach hang CEI end.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 5505,
+      "path": "123.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 103184,
+      "path": "1C22TAD091238129038.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6201,
+      "path": "1C22TAD_00000009_1676217770 - Copy (2).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 5154,
+      "path": "3557_MOBIFONE-CSKH_Lan3.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 112214,
+      "path": "BD_00000156_28092022.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 112215,
+      "path": "BD_82_29092022.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 112213,
+      "path": "BD_khong_cks.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 107565,
+      "path": "BIGDATA _ Ca làm việc CT.xlsx",
+      "type": "file"
+    },
+    {
+      "file_id": 112212,
+      "path": "BIGDATA-00000064-31012023.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 112216,
+      "path": "BIGDATA-00000065-31012023.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 112217,
+      "path": "BIGDATA-00000066-31012023.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 112218,
+      "path": "BIGDATA-00000067-31012023.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 112219,
+      "path": "BIGDATA-00000068-31012023.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 75567,
+      "path": "Bang_tieng_Duc_Nguyen.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 4906,
+      "path": "Bangoi-combined.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 6203,
+      "path": "Bug tìm kiếm/",
+      "type": "folder"
+    },
+    {
+      "file_id": 6216,
+      "path": "Bug tìm kiếm/1C22TAD_00000009_1676217770 - Copy (2).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6217,
+      "path": "Bug tìm kiếm/1C22TAD_00000009_1676217770 - Copy (3).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6213,
+      "path": "Bug tìm kiếm/1C22TAD_00000009_1676217770 - Copy (4).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6215,
+      "path": "Bug tìm kiếm/1C22TAD_00000009_1676217770 - Copy (5).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6212,
+      "path": "Bug tìm kiếm/1C22TAD_00000009_1676217770 - Copy (6).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6214,
+      "path": "Bug tìm kiếm/1C22TAD_00000009_1676217770 - Copy (7).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6210,
+      "path": "Bug tìm kiếm/1C22TAD_00000009_1676217770 - Copy (8).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6209,
+      "path": "Bug tìm kiếm/1C22TAD_00000009_1676217770 - Copy (9) (1).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6206,
+      "path": "Bug tìm kiếm/1C22TAD_00000009_1676217770 - Copy (9) (2).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6204,
+      "path": "Bug tìm kiếm/1C22TAD_00000009_1676217770 - Copy (9) (3).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6208,
+      "path": "Bug tìm kiếm/1C22TAD_00000009_1676217770 - Copy (9) (4).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6205,
+      "path": "Bug tìm kiếm/1C22TAD_00000009_1676217770 - Copy (9) (5).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6207,
+      "path": "Bug tìm kiếm/1C22TAD_00000009_1676217770 - Copy (9) (6).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6211,
+      "path": "Bug tìm kiếm/1C22TAD_00000009_1676217770 - Copy (9).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 4586,
+      "path": "ChatGPT.pptx",
+      "type": "file"
+    },
+    {
+      "file_id": 111277,
+      "path": "Hiếu1/",
+      "type": "folder"
+    },
+    {
+      "file_id": 111280,
+      "path": "Hiếu1/Ok.zip",
+      "type": "file"
+    },
+    {
+      "file_id": 107992,
+      "path": "Hóa đơn test/",
+      "type": "folder"
+    },
+    {
+      "file_id": 108043,
+      "path": "Hóa đơn test/123465655.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 108040,
+      "path": "Hóa đơn test/BD_29_16082022 - Copy (4).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 108044,
+      "path": "Hóa đơn test/BD_29_16082022 - Copy (6).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 108033,
+      "path": "Hóa đơn test/BD_29_16082022.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 108004,
+      "path": "Hóa đơn test/Khongcochuky.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 108006,
+      "path": "Hóa đơn test/Khongthuocdanhmuckyso.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 108005,
+      "path": "Hóa đơn test/SaiDiachiNB.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 108000,
+      "path": "Hóa đơn test/SaiDiachiNM.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 108001,
+      "path": "Hóa đơn test/SaiMSTNB.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 108003,
+      "path": "Hóa đơn test/SaiMSTNM.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 108002,
+      "path": "Hóa đơn test/SaiTenNB.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 4514,
+      "path": "Hồng share/",
+      "type": "folder"
+    },
+    {
+      "file_id": 4532,
+      "path": "Hồng share/0000862_01GTKT0-003_CG-21E.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 4535,
+      "path": "Hồng share/000087-TL.txt",
+      "type": "file"
+    },
+    {
+      "file_id": 4533,
+      "path": "Hồng share/BD_29_16082022.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 4534,
+      "path": "Hồng share/Drawing2.vsdx",
+      "type": "file"
+    },
+    {
+      "file_id": 4530,
+      "path": "Hồng share/Giấy cam kết TC&TK.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 4531,
+      "path": "Hồng share/Huyen_QLDM tài liệu _ Tiện ích bảng kê_1679626297.vsdx",
+      "type": "file"
+    },
+    {
+      "file_id": 4536,
+      "path": "Hồng share/LuongTTT_QLnhomnguoidung_Phanquyen.vsdx",
+      "type": "file"
+    },
+    {
+      "file_id": 102287,
+      "path": "Hồng share/images.png",
+      "type": "file"
+    },
+    {
+      "file_id": 107183,
+      "path": "Luong_test/",
+      "type": "folder"
+    },
+    {
+      "file_id": 107662,
+      "path": "Luong_test/BD_29_16082022.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 107473,
+      "path": "Luong_test/BD_29_16082022_Edit.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 107665,
+      "path": "Luong_test/BD_33_26062022.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 107664,
+      "path": "Luong_test/BD_82_29092022.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 107744,
+      "path": "Luong_test/BD_92_28092022_Format.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 107743,
+      "path": "Luong_test/Thống_kê_môi_trường_và_User.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106761,
+      "path": "Lưu trữ tài liệu/",
+      "type": "folder"
+    },
+    {
+      "file_id": 107182,
+      "path": "Lưu trữ tài liệu/1 năm/",
+      "type": "folder"
+    },
+    {
+      "file_id": 107315,
+      "path": "Lưu trữ tài liệu/1 năm/01_Callout 9 CTKV_BB khao sat_V2 - Copy.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107304,
+      "path": "Lưu trữ tài liệu/1 năm/07122022_04_Callout 9 CTKV_Phuong an_V4.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107303,
+      "path": "Lưu trữ tài liệu/1 năm/07122022_04_Callout 9 CTKV_Phuong an_V4_DungNT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107302,
+      "path": "Lưu trữ tài liệu/1 năm/08122022_04_Callout 9 CTKV_Phuong an_V4_DungNT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107312,
+      "path": "Lưu trữ tài liệu/1 năm/08_SMS_MVas_PA_v5.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107301,
+      "path": "Lưu trữ tài liệu/1 năm/09122022_04_Callout 9 CTKV_Phuong an.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107300,
+      "path": "Lưu trữ tài liệu/1 năm/09122022_05_Callout 9 CTKV_Phuong an.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107306,
+      "path": "Lưu trữ tài liệu/1 năm/123.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107311,
+      "path": "Lưu trữ tài liệu/1 năm/15. Ứng dụng công nghệ Robotic Process Automation (RPA) trong tối ưu hoá hiệu suất và tự động hoá nghiệp vụ văn phòng (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107310,
+      "path": "Lưu trữ tài liệu/1 năm/15. Ứng dụng công nghệ Robotic Process Automation (RPA) trong tối ưu hoá hiệu suất và tự động hoá nghiệp vụ văn phòng.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107309,
+      "path": "Lưu trữ tài liệu/1 năm/15.03.2021. bieu khao sat PM_V01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107299,
+      "path": "Lưu trữ tài liệu/1 năm/16112022_Biên bản nghiệm thu nang cap spamvoice (002).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107298,
+      "path": "Lưu trữ tài liệu/1 năm/16112022_Biên bản nghiệm thu nang cap spamvoice_1669599029.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107297,
+      "path": "Lưu trữ tài liệu/1 năm/20102022_TTCNTT_CV de xuat ghi nhan noi bo nen tang truc tuyen the he moi_final_V3.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107305,
+      "path": "Lưu trữ tài liệu/1 năm/2022-10-18-Cap phat tai nguyen cho he thong LCR.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107296,
+      "path": "Lưu trữ tài liệu/1 năm/20221104_URD he thong ECM_v1.0 (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107294,
+      "path": "Lưu trữ tài liệu/1 năm/20221104_URD he thong ECM_v1.0 (2).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107295,
+      "path": "Lưu trữ tài liệu/1 năm/20221104_URD he thong ECM_v1.0 (3).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107293,
+      "path": "Lưu trữ tài liệu/1 năm/20221104_URD he thong ECM_v1.0.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107292,
+      "path": "Lưu trữ tài liệu/1 năm/20221128_URD he thong MobiFone MCB_v1.2.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107291,
+      "path": "Lưu trữ tài liệu/1 năm/20221128_URD he thong MobiFone MCB_v1.2_1670151363.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107290,
+      "path": "Lưu trữ tài liệu/1 năm/20221221_URD he thong MobiFone MCB (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107288,
+      "path": "Lưu trữ tài liệu/1 năm/20221221_URD he thong MobiFone MCB.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107289,
+      "path": "Lưu trữ tài liệu/1 năm/20221222_CV bao cao ke hoach phat trien he thong 156.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107287,
+      "path": "Lưu trữ tài liệu/1 năm/20221222_CV bao cao ke hoach phat trien he thong 156_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107286,
+      "path": "Lưu trữ tài liệu/1 năm/20221223_Bao cao hoan thanh phat trien cac phan he thuoc he thong ECM dap ung yeu cau so hoa cong tac phi.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107285,
+      "path": "Lưu trữ tài liệu/1 năm/20221229_ADFILEX_Tờ trình xin phê duyệt ký PLHĐ Callout.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107284,
+      "path": "Lưu trữ tài liệu/1 năm/21112022_URD_CDR_v3.1_1668999512.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107283,
+      "path": "Lưu trữ tài liệu/1 năm/23112022_[Nghiệm thu]Biên bản nghiệm thu hệ thống CDR_V01_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107282,
+      "path": "Lưu trữ tài liệu/1 năm/23112022_[Nghiệm thu]Biên bản nghiệm thu hệ thống CDR_V01_Final_1669297121.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107281,
+      "path": "Lưu trữ tài liệu/1 năm/24112022_02_TTCNTT_CV de xuat ghi nhan noi bo he thong khao sat trai nghiem khach hang CEI_Final (002).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107280,
+      "path": "Lưu trữ tài liệu/1 năm/25112022_[Nghiệm thu]Biên bản nghiệm thu hệ thống CDR_V01_Final_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107308,
+      "path": "Lưu trữ tài liệu/1 năm/28.03.2022(Mau)03. Speech to text_Phuong an_final.docx-revHEAD.svn002.tmp_HangVT_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107307,
+      "path": "Lưu trữ tài liệu/1 năm/28.11.2022_MF_2022_TC_UAT_TestReport_Final.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107279,
+      "path": "Lưu trữ tài liệu/1 năm/29112022_TTCNTT_CV de xuat ghi nhan noi bo nang cap callspam.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107278,
+      "path": "Lưu trữ tài liệu/1 năm/30112022_TTCNTT_CV de xuat ghi nhan noi bo nang cap callspam 3.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107277,
+      "path": "Lưu trữ tài liệu/1 năm/30112022_TTCNTT_CV de xuat ghi nhan noi bo nang cap callspam_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107314,
+      "path": "Lưu trữ tài liệu/1 năm/6_mSale_Phương án_07012022 (2).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107313,
+      "path": "Lưu trữ tài liệu/1 năm/6_mSale_Phương án_07012022 (2)_1670364153.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107276,
+      "path": "Lưu trữ tài liệu/1 năm/AutoRecovery save of 20230201_URD he thong MobiFone MCB_v1.2 (003).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107273,
+      "path": "Lưu trữ tài liệu/1 năm/BCNTT_Ghi nhan doanh thu noi bo nâng cấp hệ thống spamvoice (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107272,
+      "path": "Lưu trữ tài liệu/1 năm/BCNTT_Ghi nhan doanh thu noi bo nâng cấp hệ thống spamvoice.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107275,
+      "path": "Lưu trữ tài liệu/1 năm/Bao cao ket qua thu viec.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107274,
+      "path": "Lưu trữ tài liệu/1 năm/Bao cao thu hoach_Vũ Thị Hằng.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107271,
+      "path": "Lưu trữ tài liệu/1 năm/Bien ban hop cong khai tai san P.TH.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107270,
+      "path": "Lưu trữ tài liệu/1 năm/Bien ban hop cong khai tai san P.TH_Big Data.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107269,
+      "path": "Lưu trữ tài liệu/1 năm/BigData_Quyết định ban hành kế hoạch Chuyển đổi số và Make in MobiFone năm 2023 tại Trung tâm CNTT MobiFone.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107268,
+      "path": "Lưu trữ tài liệu/1 năm/Chia sẻ đến Hằng_Bigdata.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107266,
+      "path": "Lưu trữ tài liệu/1 năm/Cong van thong bao nhan su sap het han HDLD_hangvt.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107267,
+      "path": "Lưu trữ tài liệu/1 năm/CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107264,
+      "path": "Lưu trữ tài liệu/1 năm/Dang Thi Phuong.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107262,
+      "path": "Lưu trữ tài liệu/1 năm/Don de nghi nghi phep.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107261,
+      "path": "Lưu trữ tài liệu/1 năm/Don xin nghi phep(CV)_Vu Thi Hang.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107260,
+      "path": "Lưu trữ tài liệu/1 năm/Don xin nghi phep.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107259,
+      "path": "Lưu trữ tài liệu/1 năm/ECM_HDSD he thong (002).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107257,
+      "path": "Lưu trữ tài liệu/1 năm/GỬI NA.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107255,
+      "path": "Lưu trữ tài liệu/1 năm/HLD_CDR.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107254,
+      "path": "Lưu trữ tài liệu/1 năm/HLD_CDR_v2_1668645323.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107253,
+      "path": "Lưu trữ tài liệu/1 năm/HLD_CDR_v3.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107252,
+      "path": "Lưu trữ tài liệu/1 năm/HLD_CDR_v3.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107251,
+      "path": "Lưu trữ tài liệu/1 năm/HQKD_MobiMeeting.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107250,
+      "path": "Lưu trữ tài liệu/1 năm/HQKD_MobiMeeting_HangVT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107256,
+      "path": "Lưu trữ tài liệu/1 năm/HangVT_2. BB nhiệm thu khối lượng CV hoàn thành Tuan (2405-0106).doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107246,
+      "path": "Lưu trữ tài liệu/1 năm/MBF_Meeting-Hướng dẫn sử dụng hệ thống_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107247,
+      "path": "Lưu trữ tài liệu/1 năm/MBF_Meeting_App-Hướng_dẫn_sử_dụng_hệ_thống.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107245,
+      "path": "Lưu trữ tài liệu/1 năm/MCB_2023_TC_UAT_TestReport_v0.1.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107244,
+      "path": "Lưu trữ tài liệu/1 năm/MF_2020_TC_UAT_TestReport.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107243,
+      "path": "Lưu trữ tài liệu/1 năm/MF_2020_TC_UAT_TestReport_V01.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107248,
+      "path": "Lưu trữ tài liệu/1 năm/Mẫu Đăng ký KPI bổ sung tháng 11.2022_PTPM2.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107242,
+      "path": "Lưu trữ tài liệu/1 năm/Một số quy định quy tắc chung trong dự án.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107240,
+      "path": "Lưu trữ tài liệu/1 năm/PTPM1_20220720_To trinh dieu chinh chi phi.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107241,
+      "path": "Lưu trữ tài liệu/1 năm/Phat dong thi dua quy II TT CNTT_BigData.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107232,
+      "path": "Lưu trữ tài liệu/1 năm/Quang_API trả về lịch sử truy vấn dữ liệu định danh thuê bao.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107231,
+      "path": "Lưu trữ tài liệu/1 năm/Quy dinh ban hanh co che ghi nhan doanh thu CNTT noi bo cho don vi PTPM-FINAL 28022023.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107228,
+      "path": "Lưu trữ tài liệu/1 năm/Quy trình quản lý KLCH của LĐP.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107230,
+      "path": "Lưu trữ tài liệu/1 năm/Quy định nguyên tắc làm việc _BIGDATA.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107227,
+      "path": "Lưu trữ tài liệu/1 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật].docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107225,
+      "path": "Lưu trữ tài liệu/1 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật]_C.Dung review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107224,
+      "path": "Lưu trữ tài liệu/1 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật]_C.Dung review_V01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107223,
+      "path": "Lưu trữ tài liệu/1 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật]_V01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107226,
+      "path": "Lưu trữ tài liệu/1 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật]_bản ký.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107221,
+      "path": "Lưu trữ tài liệu/1 năm/Quyết định kinh doanh Speech to Text_1672064651_V1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107222,
+      "path": "Lưu trữ tài liệu/1 năm/Quyết định kinh doanh Speech to Text_[update_kĩ_thuật].docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107220,
+      "path": "Lưu trữ tài liệu/1 năm/Quyết định phe duyet phuong an cap nhat toi uu Meeting.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107219,
+      "path": "Lưu trữ tài liệu/1 năm/Quyết+định+về+việc+chính+thức+cung+cấp+giải+pháp+MobiFone+Meeting.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107238,
+      "path": "Lưu trữ tài liệu/1 năm/QĐ BO CHI TIEU KPI 2022 FINAL Ban hành V2 (BẢN CUỐI CÙNG).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107237,
+      "path": "Lưu trữ tài liệu/1 năm/QĐ BO CHI TIEU KPI 2022 FINAL Ban hành V2 (BẢN CUỐI CÙNG)_1667751522.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107236,
+      "path": "Lưu trữ tài liệu/1 năm/QĐ ke hoach phan mem 2023 - Make in MobiFone_A.Hậu đã chốt_Thêm comment.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107235,
+      "path": "Lưu trữ tài liệu/1 năm/QĐ ke hoach phan mem 2023 - Make in MobiFone_BigData.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107234,
+      "path": "Lưu trữ tài liệu/1 năm/QĐ ke hoach phan mem 2023 - Make in MobiFone_HangVT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107233,
+      "path": "Lưu trữ tài liệu/1 năm/QĐ ke hoach phan mem 202311111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111 - Make in MobiFone_A.Hậu chốt..docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107218,
+      "path": "Lưu trữ tài liệu/1 năm/Sau review_TTCNTT_CV de xuat ghi nhan noi bo he thong tra cuu CDR_2 (003).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107212,
+      "path": "Lưu trữ tài liệu/1 năm/TTCNTT_BIGDATA_CV de xuat ghi nhan noi bo he thong tra cuu CDR.dot",
+      "type": "file"
+    },
+    {
+      "file_id": 107211,
+      "path": "Lưu trữ tài liệu/1 năm/TTCNTT_CV de xuat ghi nhan noi bo he thong CalloutCT2 Pha 2_V03.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107210,
+      "path": "Lưu trữ tài liệu/1 năm/TTCNTT_CV de xuat ghi nhan noi bo he thong tra cuu CDR_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107217,
+      "path": "Lưu trữ tài liệu/1 năm/Tai lieu huong dan van hanh he thong Ung tien.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107216,
+      "path": "Lưu trữ tài liệu/1 năm/TestStrategy.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107215,
+      "path": "Lưu trữ tài liệu/1 năm/Tờ trình đề xuất kinh doanh Speech to Text_V1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107214,
+      "path": "Lưu trữ tài liệu/1 năm/Tờ trình đề xuất kinh doanh Speech to Text_V1_1672245439.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107213,
+      "path": "Lưu trữ tài liệu/1 năm/Tờ trình đề xuất kinh doanh Speech to Text_V1_1672245439111111.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107208,
+      "path": "Lưu trữ tài liệu/1 năm/URD Spamvoice_Ver1.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107207,
+      "path": "Lưu trữ tài liệu/1 năm/URD Spamvoice_Ver1.1_1668478055.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107206,
+      "path": "Lưu trữ tài liệu/1 năm/URD Spamvoice_Ver1.1_1668478055_01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107205,
+      "path": "Lưu trữ tài liệu/1 năm/URD Spamvoice_Ver1.1_1668478056.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107204,
+      "path": "Lưu trữ tài liệu/1 năm/URD Spamvoice_Ver1.1_1668478056_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107203,
+      "path": "Lưu trữ tài liệu/1 năm/URD Spamvoice_Ver1.1_end_review - feedback end.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107202,
+      "path": "Lưu trữ tài liệu/1 năm/URD Spamvoice_Ver1.1_end_review - feedback end_1669601647.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107201,
+      "path": "Lưu trữ tài liệu/1 năm/URD Spamvoice_Ver1.1_end_review - new.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107200,
+      "path": "Lưu trữ tài liệu/1 năm/URD Spamvoice_Ver1.1_end_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107199,
+      "path": "Lưu trữ tài liệu/1 năm/URD Spamvoice_Ver1.1_end_review_01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107198,
+      "path": "Lưu trữ tài liệu/1 năm/URD Spamvoice_Ver1.1_end_review_02.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107197,
+      "path": "Lưu trữ tài liệu/1 năm/URD Spamvoice_Version1.1.pdf.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107209,
+      "path": "Lưu trữ tài liệu/1 năm/URD he thong MobiFone MCB_v1.2_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107196,
+      "path": "Lưu trữ tài liệu/1 năm/URD_AIoT Platform_Final (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107195,
+      "path": "Lưu trữ tài liệu/1 năm/URD_AIoT Platform_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107194,
+      "path": "Lưu trữ tài liệu/1 năm/URD_CDR_v2.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107193,
+      "path": "Lưu trữ tài liệu/1 năm/URD_CDR_v3.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107192,
+      "path": "Lưu trữ tài liệu/1 năm/URD_CDR_v3.1_1668745576.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107191,
+      "path": "Lưu trữ tài liệu/1 năm/URD_CDR_v3.1_1668938809.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107190,
+      "path": "Lưu trữ tài liệu/1 năm/URD_CDR_v3.1_1668999512.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107189,
+      "path": "Lưu trữ tài liệu/1 năm/URD_CDR_v4.0.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107185,
+      "path": "Lưu trữ tài liệu/1 năm/URD_CDR_v4.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107184,
+      "path": "Lưu trữ tài liệu/1 năm/UT988_HUONG DAN SU DUNG CHỨC NĂNG HỆ THỐNG.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107186,
+      "path": "Lưu trữ tài liệu/1 năm/VDA_MTTT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107320,
+      "path": "Lưu trữ tài liệu/1 năm/[Nghiệm thu]Biên bản nghiệm thu hệ thống Callout Pha 2 Pha 3_V01 - Copy.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107319,
+      "path": "Lưu trữ tài liệu/1 năm/[Nghiệm thu]Biên bản nghiệm thu hệ thống Callout Pha 2 Pha 3_V01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107318,
+      "path": "Lưu trữ tài liệu/1 năm/[Nghiệm thu]Biên bản nghiệm thu nền tảng họp trực tuyến MegaMeeting_V01_HangVT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107258,
+      "path": "Lưu trữ tài liệu/1 năm/eTicket_20220810_Tai lieu URD-ITC-PM1-HuyenDT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107323,
+      "path": "Lưu trữ tài liệu/1 năm/eTicket_Hướng dẫn sử dụng hệ thống E-ticket.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107249,
+      "path": "Lưu trữ tài liệu/1 năm/lanh_review1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107239,
+      "path": "Lưu trữ tài liệu/1 năm/qd ban hanh doanh thu 2022.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107187,
+      "path": "Lưu trữ tài liệu/1 năm/van-ban-xac-nhan-tai-san-rieng-cua-vo-chong.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107317,
+      "path": "Lưu trữ tài liệu/1 năm/~$ ke hoach phan mem 2023 - Make in MobiFone_BigData.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107316,
+      "path": "Lưu trữ tài liệu/1 năm/~$r phương án nhân sự Big Data V02.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107265,
+      "path": "Lưu trữ tài liệu/1 năm/Đăng ký KPI bổ sung tháng 12.2022_Big Data.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107263,
+      "path": "Lưu trữ tài liệu/1 năm/Đặng-Ngọc-Linh-CV-1 (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106763,
+      "path": "Lưu trữ tài liệu/10 năm/",
+      "type": "folder"
+    },
+    {
+      "file_id": 107035,
+      "path": "Lưu trữ tài liệu/10 năm/01_Callout 9 CTKV_BB khao sat_V2 - Copy.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107024,
+      "path": "Lưu trữ tài liệu/10 năm/07122022_04_Callout 9 CTKV_Phuong an_V4.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107023,
+      "path": "Lưu trữ tài liệu/10 năm/07122022_04_Callout 9 CTKV_Phuong an_V4_DungNT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107022,
+      "path": "Lưu trữ tài liệu/10 năm/08122022_04_Callout 9 CTKV_Phuong an_V4_DungNT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107032,
+      "path": "Lưu trữ tài liệu/10 năm/08_SMS_MVas_PA_v5.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107021,
+      "path": "Lưu trữ tài liệu/10 năm/09122022_04_Callout 9 CTKV_Phuong an.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107020,
+      "path": "Lưu trữ tài liệu/10 năm/09122022_05_Callout 9 CTKV_Phuong an.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107026,
+      "path": "Lưu trữ tài liệu/10 năm/123.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107031,
+      "path": "Lưu trữ tài liệu/10 năm/15. Ứng dụng công nghệ Robotic Process Automation (RPA) trong tối ưu hoá hiệu suất và tự động hoá nghiệp vụ văn phòng (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107030,
+      "path": "Lưu trữ tài liệu/10 năm/15. Ứng dụng công nghệ Robotic Process Automation (RPA) trong tối ưu hoá hiệu suất và tự động hoá nghiệp vụ văn phòng.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107029,
+      "path": "Lưu trữ tài liệu/10 năm/15.03.2021. bieu khao sat PM_V01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107019,
+      "path": "Lưu trữ tài liệu/10 năm/16112022_Biên bản nghiệm thu nang cap spamvoice (002).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107018,
+      "path": "Lưu trữ tài liệu/10 năm/16112022_Biên bản nghiệm thu nang cap spamvoice_1669599029.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107017,
+      "path": "Lưu trữ tài liệu/10 năm/20102022_TTCNTT_CV de xuat ghi nhan noi bo nen tang truc tuyen the he moi_final_V3.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107025,
+      "path": "Lưu trữ tài liệu/10 năm/2022-10-18-Cap phat tai nguyen cho he thong LCR.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107016,
+      "path": "Lưu trữ tài liệu/10 năm/20221104_URD he thong ECM_v1.0 (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107015,
+      "path": "Lưu trữ tài liệu/10 năm/20221104_URD he thong ECM_v1.0 (2).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107014,
+      "path": "Lưu trữ tài liệu/10 năm/20221104_URD he thong ECM_v1.0 (3).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107013,
+      "path": "Lưu trữ tài liệu/10 năm/20221104_URD he thong ECM_v1.0.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107012,
+      "path": "Lưu trữ tài liệu/10 năm/20221128_URD he thong MobiFone MCB_v1.2.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107011,
+      "path": "Lưu trữ tài liệu/10 năm/20221128_URD he thong MobiFone MCB_v1.2_1670151363.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107010,
+      "path": "Lưu trữ tài liệu/10 năm/20221221_URD he thong MobiFone MCB (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107009,
+      "path": "Lưu trữ tài liệu/10 năm/20221221_URD he thong MobiFone MCB.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107008,
+      "path": "Lưu trữ tài liệu/10 năm/20221222_CV bao cao ke hoach phat trien he thong 156.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107007,
+      "path": "Lưu trữ tài liệu/10 năm/20221222_CV bao cao ke hoach phat trien he thong 156_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107006,
+      "path": "Lưu trữ tài liệu/10 năm/20221223_Bao cao hoan thanh phat trien cac phan he thuoc he thong ECM dap ung yeu cau so hoa cong tac phi.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107005,
+      "path": "Lưu trữ tài liệu/10 năm/20221229_ADFILEX_Tờ trình xin phê duyệt ký PLHĐ Callout.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107004,
+      "path": "Lưu trữ tài liệu/10 năm/21112022_URD_CDR_v3.1_1668999512.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107003,
+      "path": "Lưu trữ tài liệu/10 năm/23112022_[Nghiệm thu]Biên bản nghiệm thu hệ thống CDR_V01_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107002,
+      "path": "Lưu trữ tài liệu/10 năm/23112022_[Nghiệm thu]Biên bản nghiệm thu hệ thống CDR_V01_Final_1669297121.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107000,
+      "path": "Lưu trữ tài liệu/10 năm/24112022_02_TTCNTT_CV de xuat ghi nhan noi bo he thong khao sat trai nghiem khach hang CEI_Final (002).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107001,
+      "path": "Lưu trữ tài liệu/10 năm/25112022_[Nghiệm thu]Biên bản nghiệm thu hệ thống CDR_V01_Final_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107028,
+      "path": "Lưu trữ tài liệu/10 năm/28.03.2022(Mau)03. Speech to text_Phuong an_final.docx-revHEAD.svn002.tmp_HangVT_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107027,
+      "path": "Lưu trữ tài liệu/10 năm/28.11.2022_MF_2022_TC_UAT_TestReport_Final.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106999,
+      "path": "Lưu trữ tài liệu/10 năm/29112022_TTCNTT_CV de xuat ghi nhan noi bo nang cap callspam.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106998,
+      "path": "Lưu trữ tài liệu/10 năm/30112022_TTCNTT_CV de xuat ghi nhan noi bo nang cap callspam 3.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106997,
+      "path": "Lưu trữ tài liệu/10 năm/30112022_TTCNTT_CV de xuat ghi nhan noi bo nang cap callspam_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107034,
+      "path": "Lưu trữ tài liệu/10 năm/6_mSale_Phương án_07012022 (2).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107033,
+      "path": "Lưu trữ tài liệu/10 năm/6_mSale_Phương án_07012022 (2)_1670364153.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106996,
+      "path": "Lưu trữ tài liệu/10 năm/AutoRecovery save of 20230201_URD he thong MobiFone MCB_v1.2 (003).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106994,
+      "path": "Lưu trữ tài liệu/10 năm/BCNTT_Ghi nhan doanh thu noi bo nâng cấp hệ thống spamvoice (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106992,
+      "path": "Lưu trữ tài liệu/10 năm/BCNTT_Ghi nhan doanh thu noi bo nâng cấp hệ thống spamvoice.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106995,
+      "path": "Lưu trữ tài liệu/10 năm/Bao cao ket qua thu viec.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106993,
+      "path": "Lưu trữ tài liệu/10 năm/Bao cao thu hoach_Vũ Thị Hằng.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106991,
+      "path": "Lưu trữ tài liệu/10 năm/Bien ban hop cong khai tai san P.TH.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106990,
+      "path": "Lưu trữ tài liệu/10 năm/Bien ban hop cong khai tai san P.TH_Big Data.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106989,
+      "path": "Lưu trữ tài liệu/10 năm/BigData_Quyết định ban hành kế hoạch Chuyển đổi số và Make in MobiFone năm 2023 tại Trung tâm CNTT MobiFone.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106988,
+      "path": "Lưu trữ tài liệu/10 năm/Chia sẻ đến Hằng_Bigdata.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106986,
+      "path": "Lưu trữ tài liệu/10 năm/Cong van thong bao nhan su sap het han HDLD_hangvt.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106987,
+      "path": "Lưu trữ tài liệu/10 năm/CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106984,
+      "path": "Lưu trữ tài liệu/10 năm/Dang Thi Phuong.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106982,
+      "path": "Lưu trữ tài liệu/10 năm/Don de nghi nghi phep.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106981,
+      "path": "Lưu trữ tài liệu/10 năm/Don xin nghi phep(CV)_Vu Thi Hang.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106980,
+      "path": "Lưu trữ tài liệu/10 năm/Don xin nghi phep.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106979,
+      "path": "Lưu trữ tài liệu/10 năm/ECM_HDSD he thong (002).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106977,
+      "path": "Lưu trữ tài liệu/10 năm/GỬI NA.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106975,
+      "path": "Lưu trữ tài liệu/10 năm/HLD_CDR.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106974,
+      "path": "Lưu trữ tài liệu/10 năm/HLD_CDR_v2_1668645323.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106973,
+      "path": "Lưu trữ tài liệu/10 năm/HLD_CDR_v3.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106972,
+      "path": "Lưu trữ tài liệu/10 năm/HLD_CDR_v3.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106971,
+      "path": "Lưu trữ tài liệu/10 năm/HQKD_MobiMeeting.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106970,
+      "path": "Lưu trữ tài liệu/10 năm/HQKD_MobiMeeting_HangVT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106976,
+      "path": "Lưu trữ tài liệu/10 năm/HangVT_2. BB nhiệm thu khối lượng CV hoàn thành Tuan (2405-0106).doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106966,
+      "path": "Lưu trữ tài liệu/10 năm/MBF_Meeting-Hướng dẫn sử dụng hệ thống_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106967,
+      "path": "Lưu trữ tài liệu/10 năm/MBF_Meeting_App-Hướng_dẫn_sử_dụng_hệ_thống.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106965,
+      "path": "Lưu trữ tài liệu/10 năm/MCB_2023_TC_UAT_TestReport_v0.1.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106964,
+      "path": "Lưu trữ tài liệu/10 năm/MF_2020_TC_UAT_TestReport.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106963,
+      "path": "Lưu trữ tài liệu/10 năm/MF_2020_TC_UAT_TestReport_V01.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106968,
+      "path": "Lưu trữ tài liệu/10 năm/Mẫu Đăng ký KPI bổ sung tháng 11.2022_PTPM2.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106962,
+      "path": "Lưu trữ tài liệu/10 năm/Một số quy định quy tắc chung trong dự án.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106960,
+      "path": "Lưu trữ tài liệu/10 năm/PTPM1_20220720_To trinh dieu chinh chi phi.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106961,
+      "path": "Lưu trữ tài liệu/10 năm/Phat dong thi dua quy II TT CNTT_BigData.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106952,
+      "path": "Lưu trữ tài liệu/10 năm/Quang_API trả về lịch sử truy vấn dữ liệu định danh thuê bao.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106951,
+      "path": "Lưu trữ tài liệu/10 năm/Quy dinh ban hanh co che ghi nhan doanh thu CNTT noi bo cho don vi PTPM-FINAL 28022023.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106949,
+      "path": "Lưu trữ tài liệu/10 năm/Quy trình quản lý KLCH của LĐP.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106950,
+      "path": "Lưu trữ tài liệu/10 năm/Quy định nguyên tắc làm việc _BIGDATA.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106948,
+      "path": "Lưu trữ tài liệu/10 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật].docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106947,
+      "path": "Lưu trữ tài liệu/10 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật]_C.Dung review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106945,
+      "path": "Lưu trữ tài liệu/10 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật]_C.Dung review_V01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106944,
+      "path": "Lưu trữ tài liệu/10 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật]_V01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106946,
+      "path": "Lưu trữ tài liệu/10 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật]_bản ký.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106942,
+      "path": "Lưu trữ tài liệu/10 năm/Quyết định kinh doanh Speech to Text_1672064651_V1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106943,
+      "path": "Lưu trữ tài liệu/10 năm/Quyết định kinh doanh Speech to Text_[update_kĩ_thuật].docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106941,
+      "path": "Lưu trữ tài liệu/10 năm/Quyết định phe duyet phuong an cap nhat toi uu Meeting.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106940,
+      "path": "Lưu trữ tài liệu/10 năm/Quyết+định+về+việc+chính+thức+cung+cấp+giải+pháp+MobiFone+Meeting.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106958,
+      "path": "Lưu trữ tài liệu/10 năm/QĐ BO CHI TIEU KPI 2022 FINAL Ban hành V2 (BẢN CUỐI CÙNG).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106957,
+      "path": "Lưu trữ tài liệu/10 năm/QĐ BO CHI TIEU KPI 2022 FINAL Ban hành V2 (BẢN CUỐI CÙNG)_1667751522.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106956,
+      "path": "Lưu trữ tài liệu/10 năm/QĐ ke hoach phan mem 2023 - Make in MobiFone_A.Hậu đã chốt_Thêm comment.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106955,
+      "path": "Lưu trữ tài liệu/10 năm/QĐ ke hoach phan mem 2023 - Make in MobiFone_BigData.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106954,
+      "path": "Lưu trữ tài liệu/10 năm/QĐ ke hoach phan mem 2023 - Make in MobiFone_HangVT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106953,
+      "path": "Lưu trữ tài liệu/10 năm/QĐ ke hoach phan mem 202311111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111 - Make in MobiFone_A.Hậu chốt..docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106939,
+      "path": "Lưu trữ tài liệu/10 năm/Sau review_TTCNTT_CV de xuat ghi nhan noi bo he thong tra cuu CDR_2 (003).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106933,
+      "path": "Lưu trữ tài liệu/10 năm/TTCNTT_BIGDATA_CV de xuat ghi nhan noi bo he thong tra cuu CDR.dot",
+      "type": "file"
+    },
+    {
+      "file_id": 106932,
+      "path": "Lưu trữ tài liệu/10 năm/TTCNTT_CV de xuat ghi nhan noi bo he thong CalloutCT2 Pha 2_V03.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106931,
+      "path": "Lưu trữ tài liệu/10 năm/TTCNTT_CV de xuat ghi nhan noi bo he thong tra cuu CDR_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106938,
+      "path": "Lưu trữ tài liệu/10 năm/Tai lieu huong dan van hanh he thong Ung tien.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106937,
+      "path": "Lưu trữ tài liệu/10 năm/TestStrategy.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106936,
+      "path": "Lưu trữ tài liệu/10 năm/Tờ trình đề xuất kinh doanh Speech to Text_V1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106935,
+      "path": "Lưu trữ tài liệu/10 năm/Tờ trình đề xuất kinh doanh Speech to Text_V1_1672245439.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106934,
+      "path": "Lưu trữ tài liệu/10 năm/Tờ trình đề xuất kinh doanh Speech to Text_V1_1672245439111111.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106929,
+      "path": "Lưu trữ tài liệu/10 năm/URD Spamvoice_Ver1.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106928,
+      "path": "Lưu trữ tài liệu/10 năm/URD Spamvoice_Ver1.1_1668478055.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106927,
+      "path": "Lưu trữ tài liệu/10 năm/URD Spamvoice_Ver1.1_1668478055_01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106926,
+      "path": "Lưu trữ tài liệu/10 năm/URD Spamvoice_Ver1.1_1668478056.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106925,
+      "path": "Lưu trữ tài liệu/10 năm/URD Spamvoice_Ver1.1_1668478056_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106924,
+      "path": "Lưu trữ tài liệu/10 năm/URD Spamvoice_Ver1.1_end_review - feedback end.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106923,
+      "path": "Lưu trữ tài liệu/10 năm/URD Spamvoice_Ver1.1_end_review - feedback end_1669601647.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106922,
+      "path": "Lưu trữ tài liệu/10 năm/URD Spamvoice_Ver1.1_end_review - new.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106921,
+      "path": "Lưu trữ tài liệu/10 năm/URD Spamvoice_Ver1.1_end_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106920,
+      "path": "Lưu trữ tài liệu/10 năm/URD Spamvoice_Ver1.1_end_review_01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106919,
+      "path": "Lưu trữ tài liệu/10 năm/URD Spamvoice_Ver1.1_end_review_02.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106918,
+      "path": "Lưu trữ tài liệu/10 năm/URD Spamvoice_Version1.1.pdf.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106930,
+      "path": "Lưu trữ tài liệu/10 năm/URD he thong MobiFone MCB_v1.2_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106917,
+      "path": "Lưu trữ tài liệu/10 năm/URD_AIoT Platform_Final (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106916,
+      "path": "Lưu trữ tài liệu/10 năm/URD_AIoT Platform_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106915,
+      "path": "Lưu trữ tài liệu/10 năm/URD_CDR_v2.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106914,
+      "path": "Lưu trữ tài liệu/10 năm/URD_CDR_v3.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106913,
+      "path": "Lưu trữ tài liệu/10 năm/URD_CDR_v3.1_1668745576.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106912,
+      "path": "Lưu trữ tài liệu/10 năm/URD_CDR_v3.1_1668938809.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106911,
+      "path": "Lưu trữ tài liệu/10 năm/URD_CDR_v3.1_1668999512.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106910,
+      "path": "Lưu trữ tài liệu/10 năm/URD_CDR_v4.0.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106908,
+      "path": "Lưu trữ tài liệu/10 năm/URD_CDR_v4.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106906,
+      "path": "Lưu trữ tài liệu/10 năm/UT988_HUONG DAN SU DUNG CHỨC NĂNG HỆ THỐNG.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107428,
+      "path": "Lưu trữ tài liệu/10 năm/VB_DEN_256_TT.CNTT-PTPM1_20230406_20230407_104158.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 106907,
+      "path": "Lưu trữ tài liệu/10 năm/VDA_MTTT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107040,
+      "path": "Lưu trữ tài liệu/10 năm/[Nghiệm thu]Biên bản nghiệm thu hệ thống Callout Pha 2 Pha 3_V01 - Copy.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107039,
+      "path": "Lưu trữ tài liệu/10 năm/[Nghiệm thu]Biên bản nghiệm thu hệ thống Callout Pha 2 Pha 3_V01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107038,
+      "path": "Lưu trữ tài liệu/10 năm/[Nghiệm thu]Biên bản nghiệm thu nền tảng họp trực tuyến MegaMeeting_V01_HangVT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106978,
+      "path": "Lưu trữ tài liệu/10 năm/eTicket_20220810_Tai lieu URD-ITC-PM1-HuyenDT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106969,
+      "path": "Lưu trữ tài liệu/10 năm/lanh_review1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106959,
+      "path": "Lưu trữ tài liệu/10 năm/qd ban hanh doanh thu 2022.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106905,
+      "path": "Lưu trữ tài liệu/10 năm/van-ban-xac-nhan-tai-san-rieng-cua-vo-chong.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107037,
+      "path": "Lưu trữ tài liệu/10 năm/~$ ke hoach phan mem 2023 - Make in MobiFone_BigData.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107036,
+      "path": "Lưu trữ tài liệu/10 năm/~$r phương án nhân sự Big Data V02.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106985,
+      "path": "Lưu trữ tài liệu/10 năm/Đăng ký KPI bổ sung tháng 12.2022_Big Data.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106983,
+      "path": "Lưu trữ tài liệu/10 năm/Đặng-Ngọc-Linh-CV-1 (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107042,
+      "path": "Lưu trữ tài liệu/15 năm/",
+      "type": "folder"
+    },
+    {
+      "file_id": 107173,
+      "path": "Lưu trữ tài liệu/15 năm/01_Callout 9 CTKV_BB khao sat_V2 - Copy.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107162,
+      "path": "Lưu trữ tài liệu/15 năm/07122022_04_Callout 9 CTKV_Phuong an_V4.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107161,
+      "path": "Lưu trữ tài liệu/15 năm/07122022_04_Callout 9 CTKV_Phuong an_V4_DungNT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107160,
+      "path": "Lưu trữ tài liệu/15 năm/08122022_04_Callout 9 CTKV_Phuong an_V4_DungNT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107170,
+      "path": "Lưu trữ tài liệu/15 năm/08_SMS_MVas_PA_v5.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107159,
+      "path": "Lưu trữ tài liệu/15 năm/09122022_04_Callout 9 CTKV_Phuong an.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107158,
+      "path": "Lưu trữ tài liệu/15 năm/09122022_05_Callout 9 CTKV_Phuong an.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107164,
+      "path": "Lưu trữ tài liệu/15 năm/123.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107169,
+      "path": "Lưu trữ tài liệu/15 năm/15. Ứng dụng công nghệ Robotic Process Automation (RPA) trong tối ưu hoá hiệu suất và tự động hoá nghiệp vụ văn phòng (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107168,
+      "path": "Lưu trữ tài liệu/15 năm/15. Ứng dụng công nghệ Robotic Process Automation (RPA) trong tối ưu hoá hiệu suất và tự động hoá nghiệp vụ văn phòng.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107167,
+      "path": "Lưu trữ tài liệu/15 năm/15.03.2021. bieu khao sat PM_V01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107157,
+      "path": "Lưu trữ tài liệu/15 năm/16112022_Biên bản nghiệm thu nang cap spamvoice (002).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107156,
+      "path": "Lưu trữ tài liệu/15 năm/16112022_Biên bản nghiệm thu nang cap spamvoice_1669599029.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107155,
+      "path": "Lưu trữ tài liệu/15 năm/20102022_TTCNTT_CV de xuat ghi nhan noi bo nen tang truc tuyen the he moi_final_V3.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107163,
+      "path": "Lưu trữ tài liệu/15 năm/2022-10-18-Cap phat tai nguyen cho he thong LCR.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107154,
+      "path": "Lưu trữ tài liệu/15 năm/20221104_URD he thong ECM_v1.0 (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107153,
+      "path": "Lưu trữ tài liệu/15 năm/20221104_URD he thong ECM_v1.0 (2).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107152,
+      "path": "Lưu trữ tài liệu/15 năm/20221104_URD he thong ECM_v1.0 (3).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107151,
+      "path": "Lưu trữ tài liệu/15 năm/20221104_URD he thong ECM_v1.0.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107150,
+      "path": "Lưu trữ tài liệu/15 năm/20221128_URD he thong MobiFone MCB_v1.2.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107149,
+      "path": "Lưu trữ tài liệu/15 năm/20221128_URD he thong MobiFone MCB_v1.2_1670151363.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107148,
+      "path": "Lưu trữ tài liệu/15 năm/20221221_URD he thong MobiFone MCB (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107147,
+      "path": "Lưu trữ tài liệu/15 năm/20221221_URD he thong MobiFone MCB.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107146,
+      "path": "Lưu trữ tài liệu/15 năm/20221222_CV bao cao ke hoach phat trien he thong 156.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107145,
+      "path": "Lưu trữ tài liệu/15 năm/20221222_CV bao cao ke hoach phat trien he thong 156_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107144,
+      "path": "Lưu trữ tài liệu/15 năm/20221223_Bao cao hoan thanh phat trien cac phan he thuoc he thong ECM dap ung yeu cau so hoa cong tac phi.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107143,
+      "path": "Lưu trữ tài liệu/15 năm/20221229_ADFILEX_Tờ trình xin phê duyệt ký PLHĐ Callout.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107142,
+      "path": "Lưu trữ tài liệu/15 năm/21112022_URD_CDR_v3.1_1668999512.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107141,
+      "path": "Lưu trữ tài liệu/15 năm/23112022_[Nghiệm thu]Biên bản nghiệm thu hệ thống CDR_V01_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107140,
+      "path": "Lưu trữ tài liệu/15 năm/23112022_[Nghiệm thu]Biên bản nghiệm thu hệ thống CDR_V01_Final_1669297121.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107139,
+      "path": "Lưu trữ tài liệu/15 năm/24112022_02_TTCNTT_CV de xuat ghi nhan noi bo he thong khao sat trai nghiem khach hang CEI_Final (002).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107138,
+      "path": "Lưu trữ tài liệu/15 năm/25112022_[Nghiệm thu]Biên bản nghiệm thu hệ thống CDR_V01_Final_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107166,
+      "path": "Lưu trữ tài liệu/15 năm/28.03.2022(Mau)03. Speech to text_Phuong an_final.docx-revHEAD.svn002.tmp_HangVT_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107165,
+      "path": "Lưu trữ tài liệu/15 năm/28.11.2022_MF_2022_TC_UAT_TestReport_Final.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107137,
+      "path": "Lưu trữ tài liệu/15 năm/29112022_TTCNTT_CV de xuat ghi nhan noi bo nang cap callspam.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107136,
+      "path": "Lưu trữ tài liệu/15 năm/30112022_TTCNTT_CV de xuat ghi nhan noi bo nang cap callspam 3.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107135,
+      "path": "Lưu trữ tài liệu/15 năm/30112022_TTCNTT_CV de xuat ghi nhan noi bo nang cap callspam_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107172,
+      "path": "Lưu trữ tài liệu/15 năm/6_mSale_Phương án_07012022 (2).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107171,
+      "path": "Lưu trữ tài liệu/15 năm/6_mSale_Phương án_07012022 (2)_1670364153.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107134,
+      "path": "Lưu trữ tài liệu/15 năm/AutoRecovery save of 20230201_URD he thong MobiFone MCB_v1.2 (003).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107131,
+      "path": "Lưu trữ tài liệu/15 năm/BCNTT_Ghi nhan doanh thu noi bo nâng cấp hệ thống spamvoice (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107130,
+      "path": "Lưu trữ tài liệu/15 năm/BCNTT_Ghi nhan doanh thu noi bo nâng cấp hệ thống spamvoice.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107133,
+      "path": "Lưu trữ tài liệu/15 năm/Bao cao ket qua thu viec.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107132,
+      "path": "Lưu trữ tài liệu/15 năm/Bao cao thu hoach_Vũ Thị Hằng.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107129,
+      "path": "Lưu trữ tài liệu/15 năm/Bien ban hop cong khai tai san P.TH.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107128,
+      "path": "Lưu trữ tài liệu/15 năm/Bien ban hop cong khai tai san P.TH_Big Data.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107127,
+      "path": "Lưu trữ tài liệu/15 năm/BigData_Quyết định ban hành kế hoạch Chuyển đổi số và Make in MobiFone năm 2023 tại Trung tâm CNTT MobiFone.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107126,
+      "path": "Lưu trữ tài liệu/15 năm/Chia sẻ đến Hằng_Bigdata.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107124,
+      "path": "Lưu trữ tài liệu/15 năm/Cong van thong bao nhan su sap het han HDLD_hangvt.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107125,
+      "path": "Lưu trữ tài liệu/15 năm/CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107122,
+      "path": "Lưu trữ tài liệu/15 năm/Dang Thi Phuong.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107120,
+      "path": "Lưu trữ tài liệu/15 năm/Don de nghi nghi phep.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107119,
+      "path": "Lưu trữ tài liệu/15 năm/Don xin nghi phep(CV)_Vu Thi Hang.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107118,
+      "path": "Lưu trữ tài liệu/15 năm/Don xin nghi phep.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107117,
+      "path": "Lưu trữ tài liệu/15 năm/ECM_HDSD he thong (002).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107115,
+      "path": "Lưu trữ tài liệu/15 năm/GỬI NA.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107113,
+      "path": "Lưu trữ tài liệu/15 năm/HLD_CDR.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107112,
+      "path": "Lưu trữ tài liệu/15 năm/HLD_CDR_v2_1668645323.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107111,
+      "path": "Lưu trữ tài liệu/15 năm/HLD_CDR_v3.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107110,
+      "path": "Lưu trữ tài liệu/15 năm/HLD_CDR_v3.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107109,
+      "path": "Lưu trữ tài liệu/15 năm/HQKD_MobiMeeting.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107108,
+      "path": "Lưu trữ tài liệu/15 năm/HQKD_MobiMeeting_HangVT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107114,
+      "path": "Lưu trữ tài liệu/15 năm/HangVT_2. BB nhiệm thu khối lượng CV hoàn thành Tuan (2405-0106).doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107104,
+      "path": "Lưu trữ tài liệu/15 năm/MBF_Meeting-Hướng dẫn sử dụng hệ thống_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107105,
+      "path": "Lưu trữ tài liệu/15 năm/MBF_Meeting_App-Hướng_dẫn_sử_dụng_hệ_thống.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107103,
+      "path": "Lưu trữ tài liệu/15 năm/MCB_2023_TC_UAT_TestReport_v0.1.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107102,
+      "path": "Lưu trữ tài liệu/15 năm/MF_2020_TC_UAT_TestReport.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107101,
+      "path": "Lưu trữ tài liệu/15 năm/MF_2020_TC_UAT_TestReport_V01.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107106,
+      "path": "Lưu trữ tài liệu/15 năm/Mẫu Đăng ký KPI bổ sung tháng 11.2022_PTPM2.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107100,
+      "path": "Lưu trữ tài liệu/15 năm/Một số quy định quy tắc chung trong dự án.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107098,
+      "path": "Lưu trữ tài liệu/15 năm/PTPM1_20220720_To trinh dieu chinh chi phi.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107099,
+      "path": "Lưu trữ tài liệu/15 năm/Phat dong thi dua quy II TT CNTT_BigData.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 107090,
+      "path": "Lưu trữ tài liệu/15 năm/Quang_API trả về lịch sử truy vấn dữ liệu định danh thuê bao.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107088,
+      "path": "Lưu trữ tài liệu/15 năm/Quy dinh ban hanh co che ghi nhan doanh thu CNTT noi bo cho don vi PTPM-FINAL 28022023.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107087,
+      "path": "Lưu trữ tài liệu/15 năm/Quy trình quản lý KLCH của LĐP.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107089,
+      "path": "Lưu trữ tài liệu/15 năm/Quy định nguyên tắc làm việc _BIGDATA.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107086,
+      "path": "Lưu trữ tài liệu/15 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật].docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107084,
+      "path": "Lưu trữ tài liệu/15 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật]_C.Dung review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107083,
+      "path": "Lưu trữ tài liệu/15 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật]_C.Dung review_V01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107082,
+      "path": "Lưu trữ tài liệu/15 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật]_V01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107085,
+      "path": "Lưu trữ tài liệu/15 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật]_bản ký.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107080,
+      "path": "Lưu trữ tài liệu/15 năm/Quyết định kinh doanh Speech to Text_1672064651_V1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107081,
+      "path": "Lưu trữ tài liệu/15 năm/Quyết định kinh doanh Speech to Text_[update_kĩ_thuật].docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107079,
+      "path": "Lưu trữ tài liệu/15 năm/Quyết định phe duyet phuong an cap nhat toi uu Meeting.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107078,
+      "path": "Lưu trữ tài liệu/15 năm/Quyết+định+về+việc+chính+thức+cung+cấp+giải+pháp+MobiFone+Meeting.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107097,
+      "path": "Lưu trữ tài liệu/15 năm/QĐ BO CHI TIEU KPI 2022 FINAL Ban hành V2 (BẢN CUỐI CÙNG).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107095,
+      "path": "Lưu trữ tài liệu/15 năm/QĐ BO CHI TIEU KPI 2022 FINAL Ban hành V2 (BẢN CUỐI CÙNG)_1667751522.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107094,
+      "path": "Lưu trữ tài liệu/15 năm/QĐ ke hoach phan mem 2023 - Make in MobiFone_A.Hậu đã chốt_Thêm comment.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107093,
+      "path": "Lưu trữ tài liệu/15 năm/QĐ ke hoach phan mem 2023 - Make in MobiFone_BigData.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107092,
+      "path": "Lưu trữ tài liệu/15 năm/QĐ ke hoach phan mem 2023 - Make in MobiFone_HangVT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107091,
+      "path": "Lưu trữ tài liệu/15 năm/QĐ ke hoach phan mem 202311111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111 - Make in MobiFone_A.Hậu chốt..docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107077,
+      "path": "Lưu trữ tài liệu/15 năm/Sau review_TTCNTT_CV de xuat ghi nhan noi bo he thong tra cuu CDR_2 (003).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107070,
+      "path": "Lưu trữ tài liệu/15 năm/TTCNTT_BIGDATA_CV de xuat ghi nhan noi bo he thong tra cuu CDR.dot",
+      "type": "file"
+    },
+    {
+      "file_id": 107071,
+      "path": "Lưu trữ tài liệu/15 năm/TTCNTT_CV de xuat ghi nhan noi bo he thong CalloutCT2 Pha 2_V03.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107069,
+      "path": "Lưu trữ tài liệu/15 năm/TTCNTT_CV de xuat ghi nhan noi bo he thong tra cuu CDR_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107076,
+      "path": "Lưu trữ tài liệu/15 năm/Tai lieu huong dan van hanh he thong Ung tien.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107075,
+      "path": "Lưu trữ tài liệu/15 năm/TestStrategy.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107074,
+      "path": "Lưu trữ tài liệu/15 năm/Tờ trình đề xuất kinh doanh Speech to Text_V1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107073,
+      "path": "Lưu trữ tài liệu/15 năm/Tờ trình đề xuất kinh doanh Speech to Text_V1_1672245439.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107072,
+      "path": "Lưu trữ tài liệu/15 năm/Tờ trình đề xuất kinh doanh Speech to Text_V1_1672245439111111.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107067,
+      "path": "Lưu trữ tài liệu/15 năm/URD Spamvoice_Ver1.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107066,
+      "path": "Lưu trữ tài liệu/15 năm/URD Spamvoice_Ver1.1_1668478055.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107065,
+      "path": "Lưu trữ tài liệu/15 năm/URD Spamvoice_Ver1.1_1668478055_01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107064,
+      "path": "Lưu trữ tài liệu/15 năm/URD Spamvoice_Ver1.1_1668478056.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107063,
+      "path": "Lưu trữ tài liệu/15 năm/URD Spamvoice_Ver1.1_1668478056_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107062,
+      "path": "Lưu trữ tài liệu/15 năm/URD Spamvoice_Ver1.1_end_review - feedback end.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107061,
+      "path": "Lưu trữ tài liệu/15 năm/URD Spamvoice_Ver1.1_end_review - feedback end_1669601647.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107060,
+      "path": "Lưu trữ tài liệu/15 năm/URD Spamvoice_Ver1.1_end_review - new.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107059,
+      "path": "Lưu trữ tài liệu/15 năm/URD Spamvoice_Ver1.1_end_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107058,
+      "path": "Lưu trữ tài liệu/15 năm/URD Spamvoice_Ver1.1_end_review_01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107057,
+      "path": "Lưu trữ tài liệu/15 năm/URD Spamvoice_Ver1.1_end_review_02.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107056,
+      "path": "Lưu trữ tài liệu/15 năm/URD Spamvoice_Version1.1.pdf.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107068,
+      "path": "Lưu trữ tài liệu/15 năm/URD he thong MobiFone MCB_v1.2_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107055,
+      "path": "Lưu trữ tài liệu/15 năm/URD_AIoT Platform_Final (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107054,
+      "path": "Lưu trữ tài liệu/15 năm/URD_AIoT Platform_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107053,
+      "path": "Lưu trữ tài liệu/15 năm/URD_CDR_v2.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107052,
+      "path": "Lưu trữ tài liệu/15 năm/URD_CDR_v3.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107051,
+      "path": "Lưu trữ tài liệu/15 năm/URD_CDR_v3.1_1668745576.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107050,
+      "path": "Lưu trữ tài liệu/15 năm/URD_CDR_v3.1_1668938809.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107049,
+      "path": "Lưu trữ tài liệu/15 năm/URD_CDR_v3.1_1668999512.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107048,
+      "path": "Lưu trữ tài liệu/15 năm/URD_CDR_v4.0.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107045,
+      "path": "Lưu trữ tài liệu/15 năm/URD_CDR_v4.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107046,
+      "path": "Lưu trữ tài liệu/15 năm/UT988_HUONG DAN SU DUNG CHỨC NĂNG HỆ THỐNG.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107044,
+      "path": "Lưu trữ tài liệu/15 năm/VDA_MTTT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107178,
+      "path": "Lưu trữ tài liệu/15 năm/[Nghiệm thu]Biên bản nghiệm thu hệ thống Callout Pha 2 Pha 3_V01 - Copy.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107177,
+      "path": "Lưu trữ tài liệu/15 năm/[Nghiệm thu]Biên bản nghiệm thu hệ thống Callout Pha 2 Pha 3_V01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107176,
+      "path": "Lưu trữ tài liệu/15 năm/[Nghiệm thu]Biên bản nghiệm thu nền tảng họp trực tuyến MegaMeeting_V01_HangVT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107116,
+      "path": "Lưu trữ tài liệu/15 năm/eTicket_20220810_Tai lieu URD-ITC-PM1-HuyenDT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107181,
+      "path": "Lưu trữ tài liệu/15 năm/eTicket_Hướng dẫn sử dụng hệ thống E-ticket.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107107,
+      "path": "Lưu trữ tài liệu/15 năm/lanh_review1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107096,
+      "path": "Lưu trữ tài liệu/15 năm/qd ban hanh doanh thu 2022.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107043,
+      "path": "Lưu trữ tài liệu/15 năm/van-ban-xac-nhan-tai-san-rieng-cua-vo-chong.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107175,
+      "path": "Lưu trữ tài liệu/15 năm/~$ ke hoach phan mem 2023 - Make in MobiFone_BigData.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107174,
+      "path": "Lưu trữ tài liệu/15 năm/~$r phương án nhân sự Big Data V02.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107123,
+      "path": "Lưu trữ tài liệu/15 năm/Đăng ký KPI bổ sung tháng 12.2022_Big Data.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107121,
+      "path": "Lưu trữ tài liệu/15 năm/Đặng-Ngọc-Linh-CV-1 (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106762,
+      "path": "Lưu trữ tài liệu/5 năm/",
+      "type": "folder"
+    },
+    {
+      "file_id": 106894,
+      "path": "Lưu trữ tài liệu/5 năm/01_Callout 9 CTKV_BB khao sat_V2 - Copy.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106883,
+      "path": "Lưu trữ tài liệu/5 năm/05 năm_02.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106882,
+      "path": "Lưu trữ tài liệu/5 năm/07122022_04_Callout 9 CTKV_Phuong an_V4_DungNT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106881,
+      "path": "Lưu trữ tài liệu/5 năm/08122022_04_Callout 9 CTKV_Phuong an_V4_DungNT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106891,
+      "path": "Lưu trữ tài liệu/5 năm/08_SMS_MVas_PA_v5.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106880,
+      "path": "Lưu trữ tài liệu/5 năm/09122022_04_Callout 9 CTKV_Phuong an.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106879,
+      "path": "Lưu trữ tài liệu/5 năm/09122022_05_Callout 9 CTKV_Phuong an.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106885,
+      "path": "Lưu trữ tài liệu/5 năm/123.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106890,
+      "path": "Lưu trữ tài liệu/5 năm/15. Ứng dụng công nghệ Robotic Process Automation (RPA) trong tối ưu hoá hiệu suất và tự động hoá nghiệp vụ văn phòng (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106889,
+      "path": "Lưu trữ tài liệu/5 năm/15. Ứng dụng công nghệ Robotic Process Automation (RPA) trong tối ưu hoá hiệu suất và tự động hoá nghiệp vụ văn phòng.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106888,
+      "path": "Lưu trữ tài liệu/5 năm/15.03.2021. bieu khao sat PM_V01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106878,
+      "path": "Lưu trữ tài liệu/5 năm/16112022_Biên bản nghiệm thu nang cap spamvoice (002).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106877,
+      "path": "Lưu trữ tài liệu/5 năm/16112022_Biên bản nghiệm thu nang cap spamvoice_1669599029.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106876,
+      "path": "Lưu trữ tài liệu/5 năm/20102022_TTCNTT_CV de xuat ghi nhan noi bo nen tang truc tuyen the he moi_final_V3.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106884,
+      "path": "Lưu trữ tài liệu/5 năm/2022-10-18-Cap phat tai nguyen cho he thong LCR.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106875,
+      "path": "Lưu trữ tài liệu/5 năm/20221104_URD he thong ECM_v1.0 (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106874,
+      "path": "Lưu trữ tài liệu/5 năm/20221104_URD he thong ECM_v1.0 (2).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106873,
+      "path": "Lưu trữ tài liệu/5 năm/20221104_URD he thong ECM_v1.0 (3).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106872,
+      "path": "Lưu trữ tài liệu/5 năm/20221104_URD he thong ECM_v1.0.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106871,
+      "path": "Lưu trữ tài liệu/5 năm/20221128_URD he thong MobiFone MCB_v1.2.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106870,
+      "path": "Lưu trữ tài liệu/5 năm/20221128_URD he thong MobiFone MCB_v1.2_1670151363.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106869,
+      "path": "Lưu trữ tài liệu/5 năm/20221221_URD he thong MobiFone MCB (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106868,
+      "path": "Lưu trữ tài liệu/5 năm/20221221_URD he thong MobiFone MCB.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106867,
+      "path": "Lưu trữ tài liệu/5 năm/20221222_CV bao cao ke hoach phat trien he thong 156.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106865,
+      "path": "Lưu trữ tài liệu/5 năm/20221222_CV bao cao ke hoach phat trien he thong 156_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106866,
+      "path": "Lưu trữ tài liệu/5 năm/20221223_Bao cao hoan thanh phat trien cac phan he thuoc he thong ECM dap ung yeu cau so hoa cong tac phi.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106864,
+      "path": "Lưu trữ tài liệu/5 năm/20221229_ADFILEX_Tờ trình xin phê duyệt ký PLHĐ Callout.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106863,
+      "path": "Lưu trữ tài liệu/5 năm/21112022_URD_CDR_v3.1_1668999512.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106862,
+      "path": "Lưu trữ tài liệu/5 năm/23112022_[Nghiệm thu]Biên bản nghiệm thu hệ thống CDR_V01_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106861,
+      "path": "Lưu trữ tài liệu/5 năm/23112022_[Nghiệm thu]Biên bản nghiệm thu hệ thống CDR_V01_Final_1669297121.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106860,
+      "path": "Lưu trữ tài liệu/5 năm/24112022_02_TTCNTT_CV de xuat ghi nhan noi bo he thong khao sat trai nghiem khach hang CEI_Final (002).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106859,
+      "path": "Lưu trữ tài liệu/5 năm/25112022_[Nghiệm thu]Biên bản nghiệm thu hệ thống CDR_V01_Final_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106887,
+      "path": "Lưu trữ tài liệu/5 năm/28.03.2022(Mau)03. Speech to text_Phuong an_final.docx-revHEAD.svn002.tmp_HangVT_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106886,
+      "path": "Lưu trữ tài liệu/5 năm/28.11.2022_MF_2022_TC_UAT_TestReport_Final.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106858,
+      "path": "Lưu trữ tài liệu/5 năm/29112022_TTCNTT_CV de xuat ghi nhan noi bo nang cap callspam.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106857,
+      "path": "Lưu trữ tài liệu/5 năm/30112022_TTCNTT_CV de xuat ghi nhan noi bo nang cap callspam 3.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106856,
+      "path": "Lưu trữ tài liệu/5 năm/30112022_TTCNTT_CV de xuat ghi nhan noi bo nang cap callspam_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106893,
+      "path": "Lưu trữ tài liệu/5 năm/5 năm _01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106899,
+      "path": "Lưu trữ tài liệu/5 năm/5 năm.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106892,
+      "path": "Lưu trữ tài liệu/5 năm/6_mSale_Phương án_07012022 (2)_1670364153.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106855,
+      "path": "Lưu trữ tài liệu/5 năm/AutoRecovery save of 20230201_URD he thong MobiFone MCB_v1.2 (003).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106852,
+      "path": "Lưu trữ tài liệu/5 năm/BCNTT_Ghi nhan doanh thu noi bo nâng cấp hệ thống spamvoice (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106851,
+      "path": "Lưu trữ tài liệu/5 năm/BCNTT_Ghi nhan doanh thu noi bo nâng cấp hệ thống spamvoice.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106854,
+      "path": "Lưu trữ tài liệu/5 năm/Bao cao ket qua thu viec.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106853,
+      "path": "Lưu trữ tài liệu/5 năm/Bao cao thu hoach_Vũ Thị Hằng.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106850,
+      "path": "Lưu trữ tài liệu/5 năm/Bien ban hop cong khai tai san P.TH.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106849,
+      "path": "Lưu trữ tài liệu/5 năm/Bien ban hop cong khai tai san P.TH_Big Data.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106848,
+      "path": "Lưu trữ tài liệu/5 năm/BigData_Quyết định ban hành kế hoạch Chuyển đổi số và Make in MobiFone năm 2023 tại Trung tâm CNTT MobiFone.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106847,
+      "path": "Lưu trữ tài liệu/5 năm/Chia sẻ đến Hằng_Bigdata.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106845,
+      "path": "Lưu trữ tài liệu/5 năm/Cong van thong bao nhan su sap het han HDLD_hangvt.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106846,
+      "path": "Lưu trữ tài liệu/5 năm/CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106843,
+      "path": "Lưu trữ tài liệu/5 năm/Dang Thi Phuong.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106841,
+      "path": "Lưu trữ tài liệu/5 năm/Don de nghi nghi phep.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106840,
+      "path": "Lưu trữ tài liệu/5 năm/Don xin nghi phep(CV)_Vu Thi Hang.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106839,
+      "path": "Lưu trữ tài liệu/5 năm/Don xin nghi phep.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106838,
+      "path": "Lưu trữ tài liệu/5 năm/ECM_HDSD he thong (002).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106836,
+      "path": "Lưu trữ tài liệu/5 năm/GỬI NA.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106834,
+      "path": "Lưu trữ tài liệu/5 năm/HLD_CDR.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106832,
+      "path": "Lưu trữ tài liệu/5 năm/HLD_CDR_v2_1668645323.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106833,
+      "path": "Lưu trữ tài liệu/5 năm/HLD_CDR_v3.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106831,
+      "path": "Lưu trữ tài liệu/5 năm/HLD_CDR_v3.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106830,
+      "path": "Lưu trữ tài liệu/5 năm/HQKD_MobiMeeting.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106829,
+      "path": "Lưu trữ tài liệu/5 năm/HQKD_MobiMeeting_HangVT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106835,
+      "path": "Lưu trữ tài liệu/5 năm/HangVT_2. BB nhiệm thu khối lượng CV hoàn thành Tuan (2405-0106).doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106825,
+      "path": "Lưu trữ tài liệu/5 năm/MBF_Meeting-Hướng dẫn sử dụng hệ thống_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106826,
+      "path": "Lưu trữ tài liệu/5 năm/MBF_Meeting_App-Hướng_dẫn_sử_dụng_hệ_thống.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106824,
+      "path": "Lưu trữ tài liệu/5 năm/MCB_2023_TC_UAT_TestReport_v0.1.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106823,
+      "path": "Lưu trữ tài liệu/5 năm/MF_2020_TC_UAT_TestReport.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106822,
+      "path": "Lưu trữ tài liệu/5 năm/MF_2020_TC_UAT_TestReport_V01.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106827,
+      "path": "Lưu trữ tài liệu/5 năm/Mẫu Đăng ký KPI bổ sung tháng 11.2022_PTPM2.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106821,
+      "path": "Lưu trữ tài liệu/5 năm/Một số quy định quy tắc chung trong dự án.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106819,
+      "path": "Lưu trữ tài liệu/5 năm/PTPM1_20220720_To trinh dieu chinh chi phi.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106820,
+      "path": "Lưu trữ tài liệu/5 năm/Phat dong thi dua quy II TT CNTT_BigData.doc",
+      "type": "file"
+    },
+    {
+      "file_id": 106811,
+      "path": "Lưu trữ tài liệu/5 năm/Quang_API trả về lịch sử truy vấn dữ liệu định danh thuê bao.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106810,
+      "path": "Lưu trữ tài liệu/5 năm/Quy dinh ban hanh co che ghi nhan doanh thu CNTT noi bo cho don vi PTPM-FINAL 28022023.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106808,
+      "path": "Lưu trữ tài liệu/5 năm/Quy trình quản lý KLCH của LĐP.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106809,
+      "path": "Lưu trữ tài liệu/5 năm/Quy định nguyên tắc làm việc _BIGDATA.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106807,
+      "path": "Lưu trữ tài liệu/5 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật].docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106805,
+      "path": "Lưu trữ tài liệu/5 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật]_C.Dung review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106804,
+      "path": "Lưu trữ tài liệu/5 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật]_C.Dung review_V01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106803,
+      "path": "Lưu trữ tài liệu/5 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật]_V01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106806,
+      "path": "Lưu trữ tài liệu/5 năm/Quyết định kinh doanh Họp trực tuyến_[update_kĩ_thuật]_bản ký.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106801,
+      "path": "Lưu trữ tài liệu/5 năm/Quyết định kinh doanh Speech to Text_1672064651_V1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106802,
+      "path": "Lưu trữ tài liệu/5 năm/Quyết định kinh doanh Speech to Text_[update_kĩ_thuật].docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106800,
+      "path": "Lưu trữ tài liệu/5 năm/Quyết định phe duyet phuong an cap nhat toi uu Meeting.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106799,
+      "path": "Lưu trữ tài liệu/5 năm/Quyết+định+về+việc+chính+thức+cung+cấp+giải+pháp+MobiFone+Meeting.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106817,
+      "path": "Lưu trữ tài liệu/5 năm/QĐ BO CHI TIEU KPI 2022 FINAL Ban hành V2 (BẢN CUỐI CÙNG).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106816,
+      "path": "Lưu trữ tài liệu/5 năm/QĐ BO CHI TIEU KPI 2022 FINAL Ban hành V2 (BẢN CUỐI CÙNG)_1667751522.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106815,
+      "path": "Lưu trữ tài liệu/5 năm/QĐ ke hoach phan mem 2023 - Make in MobiFone_A.Hậu đã chốt_Thêm comment.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106814,
+      "path": "Lưu trữ tài liệu/5 năm/QĐ ke hoach phan mem 2023 - Make in MobiFone_BigData.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106813,
+      "path": "Lưu trữ tài liệu/5 năm/QĐ ke hoach phan mem 2023 - Make in MobiFone_HangVT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106812,
+      "path": "Lưu trữ tài liệu/5 năm/QĐ ke hoach phan mem 202311111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111 - Make in MobiFone_A.Hậu chốt..docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106798,
+      "path": "Lưu trữ tài liệu/5 năm/Sau review_TTCNTT_CV de xuat ghi nhan noi bo he thong tra cuu CDR_2 (003).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106792,
+      "path": "Lưu trữ tài liệu/5 năm/TTCNTT_BIGDATA_CV de xuat ghi nhan noi bo he thong tra cuu CDR.dot",
+      "type": "file"
+    },
+    {
+      "file_id": 106791,
+      "path": "Lưu trữ tài liệu/5 năm/TTCNTT_CV de xuat ghi nhan noi bo he thong CalloutCT2 Pha 2_V03.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106790,
+      "path": "Lưu trữ tài liệu/5 năm/TTCNTT_CV de xuat ghi nhan noi bo he thong tra cuu CDR_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106797,
+      "path": "Lưu trữ tài liệu/5 năm/Tai lieu huong dan van hanh he thong Ung tien.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106796,
+      "path": "Lưu trữ tài liệu/5 năm/TestStrategy.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106795,
+      "path": "Lưu trữ tài liệu/5 năm/Tờ trình đề xuất kinh doanh Speech to Text_V1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106794,
+      "path": "Lưu trữ tài liệu/5 năm/Tờ trình đề xuất kinh doanh Speech to Text_V1_1672245439.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106793,
+      "path": "Lưu trữ tài liệu/5 năm/Tờ trình đề xuất kinh doanh Speech to Text_V1_1672245439111111.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106788,
+      "path": "Lưu trữ tài liệu/5 năm/URD Spamvoice_Ver1.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106787,
+      "path": "Lưu trữ tài liệu/5 năm/URD Spamvoice_Ver1.1_1668478055.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106786,
+      "path": "Lưu trữ tài liệu/5 năm/URD Spamvoice_Ver1.1_1668478055_01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106785,
+      "path": "Lưu trữ tài liệu/5 năm/URD Spamvoice_Ver1.1_1668478056.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106784,
+      "path": "Lưu trữ tài liệu/5 năm/URD Spamvoice_Ver1.1_1668478056_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106783,
+      "path": "Lưu trữ tài liệu/5 năm/URD Spamvoice_Ver1.1_end_review - feedback end.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106782,
+      "path": "Lưu trữ tài liệu/5 năm/URD Spamvoice_Ver1.1_end_review - feedback end_1669601647.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106781,
+      "path": "Lưu trữ tài liệu/5 năm/URD Spamvoice_Ver1.1_end_review - new.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106780,
+      "path": "Lưu trữ tài liệu/5 năm/URD Spamvoice_Ver1.1_end_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106779,
+      "path": "Lưu trữ tài liệu/5 năm/URD Spamvoice_Ver1.1_end_review_01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106778,
+      "path": "Lưu trữ tài liệu/5 năm/URD Spamvoice_Ver1.1_end_review_02.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106777,
+      "path": "Lưu trữ tài liệu/5 năm/URD Spamvoice_Version1.1.pdf.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106789,
+      "path": "Lưu trữ tài liệu/5 năm/URD he thong MobiFone MCB_v1.2_review.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106775,
+      "path": "Lưu trữ tài liệu/5 năm/URD_AIoT Platform_Final (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106776,
+      "path": "Lưu trữ tài liệu/5 năm/URD_AIoT Platform_Final.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106774,
+      "path": "Lưu trữ tài liệu/5 năm/URD_CDR_v2.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106773,
+      "path": "Lưu trữ tài liệu/5 năm/URD_CDR_v3.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106772,
+      "path": "Lưu trữ tài liệu/5 năm/URD_CDR_v3.1_1668745576.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106771,
+      "path": "Lưu trữ tài liệu/5 năm/URD_CDR_v3.1_1668938809.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106770,
+      "path": "Lưu trữ tài liệu/5 năm/URD_CDR_v3.1_1668999512.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106769,
+      "path": "Lưu trữ tài liệu/5 năm/URD_CDR_v4.0.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106767,
+      "path": "Lưu trữ tài liệu/5 năm/URD_CDR_v4.1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106766,
+      "path": "Lưu trữ tài liệu/5 năm/UT988_HUONG DAN SU DUNG CHỨC NĂNG HỆ THỐNG.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106764,
+      "path": "Lưu trữ tài liệu/5 năm/VDA_MTTT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106898,
+      "path": "Lưu trữ tài liệu/5 năm/[Nghiệm thu]Biên bản nghiệm thu hệ thống Callout Pha 2 Pha 3_V01.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106897,
+      "path": "Lưu trữ tài liệu/5 năm/[Nghiệm thu]Biên bản nghiệm thu nền tảng họp trực tuyến MegaMeeting_V01_HangVT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106837,
+      "path": "Lưu trữ tài liệu/5 năm/eTicket_20220810_Tai lieu URD-ITC-PM1-HuyenDT.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106902,
+      "path": "Lưu trữ tài liệu/5 năm/eTicket_Hướng dẫn sử dụng hệ thống E-ticket.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106828,
+      "path": "Lưu trữ tài liệu/5 năm/lanh_review1.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106818,
+      "path": "Lưu trữ tài liệu/5 năm/qd ban hanh doanh thu 2022.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106765,
+      "path": "Lưu trữ tài liệu/5 năm/van-ban-xac-nhan-tai-san-rieng-cua-vo-chong.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106896,
+      "path": "Lưu trữ tài liệu/5 năm/~$ ke hoach phan mem 2023 - Make in MobiFone_BigData.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106895,
+      "path": "Lưu trữ tài liệu/5 năm/~$r phương án nhân sự Big Data V02.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106844,
+      "path": "Lưu trữ tài liệu/5 năm/Đăng ký KPI bổ sung tháng 12.2022_Big Data.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 106842,
+      "path": "Lưu trữ tài liệu/5 năm/Đặng-Ngọc-Linh-CV-1 (1).docx",
+      "type": "file"
+    },
+    {
+      "file_id": 107421,
+      "path": "Lưu trữ tài liệu/[Nghiệm thu]Biên bản nghiệm thu hệ thống Callout Pha 2 Pha 3_V01 - Copy.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 75541,
+      "path": "Screenshot 2023-04-10 105858.png",
+      "type": "file"
+    },
+    {
+      "file_id": 8078,
+      "path": "Share cho hằng không có quyền chỉnh sửa.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 5715,
+      "path": "TestOCR/",
+      "type": "folder"
+    },
+    {
+      "file_id": 5809,
+      "path": "TestOCR/Test_OCR.png",
+      "type": "file"
+    },
+    {
+      "file_id": 87242,
+      "path": "TestOCR/hóa đơn.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 87243,
+      "path": "TestOCR/test_ocr.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 87244,
+      "path": "TestOCR/thong-tu-16-2022-tt-bct.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 87241,
+      "path": "TestOCR/thong-tu-20-2022-tt-bkhdt.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 87245,
+      "path": "TestOCR/thong-tu-21-2022-tt-bkhdt-bo-ke-hoach-va-dau-tu.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 5119,
+      "path": "TungNS_Resume.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 107392,
+      "path": "Xây+dựng+hệ+thống+báo+cáo+tự+động+voice+to+text+về+phản+ánh+qua+156_07122022.pdf_1670456320.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 6773,
+      "path": "a (6).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 111183,
+      "path": "ad-dc1.rdp",
+      "type": "file"
+    },
+    {
+      "file_id": 111184,
+      "path": "all_file_with_tag_id.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 8213,
+      "path": "chia sẻ cho hằng không có quyền chỉnh sửa.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 9786,
+      "path": "không sửa file này hằng nhé.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 107832,
+      "path": "new share.md",
+      "type": "file"
+    },
+    {
+      "file_id": 5909,
+      "path": "requirements.txt",
+      "type": "file"
+    },
+    {
+      "file_id": 7095,
+      "path": "s/",
+      "type": "folder"
+    },
+    {
+      "file_id": 107856,
+      "path": "s/BIGDATA-00000067-31012023.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6247,
+      "path": "son_OCR.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 22828,
+      "path": "test_ocr.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 73599,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/",
+      "type": "folder"
+    },
+    {
+      "file_id": 85173,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/2022-08-22_11-27-30.png",
+      "type": "file"
+    },
+    {
+      "file_id": 85293,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/2022-08-22_11-27-30_OCR.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 85175,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/2022-09-28_10-58-47.png",
+      "type": "file"
+    },
+    {
+      "file_id": 85174,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/2022-12-12_15-41-51.png",
+      "type": "file"
+    },
+    {
+      "file_id": 85176,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/2023-01-30_17-51-48.png",
+      "type": "file"
+    },
+    {
+      "file_id": 85177,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/2023-02-01_14-28-06.png",
+      "type": "file"
+    },
+    {
+      "file_id": 85178,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/2023-02-02_9-19-15.png",
+      "type": "file"
+    },
+    {
+      "file_id": 85179,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/2023-02-06_15-56-10.png",
+      "type": "file"
+    },
+    {
+      "file_id": 85180,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/2023-02-13_10-48-02.png",
+      "type": "file"
+    },
+    {
+      "file_id": 85201,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/2023-02-21_16-07-14.png",
+      "type": "file"
+    },
+    {
+      "file_id": 85204,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/2023-02-23_10-23-19.png",
+      "type": "file"
+    },
+    {
+      "file_id": 85205,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/2023-02-23_10-24-53.png",
+      "type": "file"
+    },
+    {
+      "file_id": 85290,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/2023-02-23_10-24-53_OCR.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 85206,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/2023-02-23_17-13-15.png",
+      "type": "file"
+    },
+    {
+      "file_id": 85292,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/2023-02-23_17-13-15_OCR.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 85207,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/2023-02-28_13-41-54.png",
+      "type": "file"
+    },
+    {
+      "file_id": 85291,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/2023-02-28_13-41-54_OCR.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 74459,
+      "path": "Share tài liệu(Chỉ cho phép chỉnh sửa)/Xây+dựng+hệ+thống+báo+cáo+tự+động+voice+to+text+về+phản+ánh+qua+156_07122022.pdf_1670456320.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 74148,
+      "path": "Tạo thư mục(cho phép share lại)/",
+      "type": "folder"
+    },
+    {
+      "file_id": 74457,
+      "path": "Tạo thư mục(cho phép share lại)/Xây+dựng+hệ+thống+báo+cáo+tự+động+voice+to+text+về+phản+ánh+qua+156_07122022.pdf_1670456320.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 74173,
+      "path": "Tạo thư mục(Cho phép tải về)/",
+      "type": "folder"
+    },
+    {
+      "file_id": 74458,
+      "path": "Tạo thư mục(Cho phép tải về)/Xây+dựng+hệ+thống+báo+cáo+tự+động+voice+to+text+về+phản+ánh+qua+156_07122022.pdf_1670456320.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 73775,
+      "path": "Tạo thư mục(cho phép tạo mới)/",
+      "type": "folder"
+    },
+    {
+      "file_id": 76764,
+      "path": "Tạo thư mục(cho phép tạo mới)/Xây+dựng+hệ+thống+báo+cáo+tự+động+voice+to+text+về+phản+ánh+qua+156_07122022.pdf_1670456320.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 74020,
+      "path": "Tạo thư mục(cho phép xóa)/",
+      "type": "folder"
+    },
+    {
+      "file_id": 74533,
+      "path": "1/",
+      "type": "folder"
+    },
+    {
+      "file_id": 75553,
+      "path": "1/output.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 75557,
+      "path": "1/son_rgf.png",
+      "type": "file"
+    },
+    {
+      "file_id": 75568,
+      "path": "1/son_rgf_OCR.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 82955,
+      "path": "Sprint_Plan_MCB_202301 (1).pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 7890,
+      "path": "20220530-QĐ 423.pdf",
+      "type": "file"
+    },
+    {
+      "file_id": 102632,
+      "path": "MBF_Meeting_App-Hướng_dẫn_sử_dụng_hệ_thống.docx",
+      "type": "file"
+    },
+    {
+      "file_id": 6184,
+      "path": "Bug tìm kiếm (2)/",
+      "type": "folder"
+    },
+    {
+      "file_id": 6197,
+      "path": "Bug tìm kiếm (2)/1C22TAD_00000009_1676217770 - Copy (2).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6198,
+      "path": "Bug tìm kiếm (2)/1C22TAD_00000009_1676217770 - Copy (3).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6195,
+      "path": "Bug tìm kiếm (2)/1C22TAD_00000009_1676217770 - Copy (4).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6196,
+      "path": "Bug tìm kiếm (2)/1C22TAD_00000009_1676217770 - Copy (5).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6194,
+      "path": "Bug tìm kiếm (2)/1C22TAD_00000009_1676217770 - Copy (6).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6193,
+      "path": "Bug tìm kiếm (2)/1C22TAD_00000009_1676217770 - Copy (7).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6190,
+      "path": "Bug tìm kiếm (2)/1C22TAD_00000009_1676217770 - Copy (8).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6189,
+      "path": "Bug tìm kiếm (2)/1C22TAD_00000009_1676217770 - Copy (9) (1).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6187,
+      "path": "Bug tìm kiếm (2)/1C22TAD_00000009_1676217770 - Copy (9) (2).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6188,
+      "path": "Bug tìm kiếm (2)/1C22TAD_00000009_1676217770 - Copy (9) (3).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6192,
+      "path": "Bug tìm kiếm (2)/1C22TAD_00000009_1676217770 - Copy (9) (4).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6185,
+      "path": "Bug tìm kiếm (2)/1C22TAD_00000009_1676217770 - Copy (9) (5).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6186,
+      "path": "Bug tìm kiếm (2)/1C22TAD_00000009_1676217770 - Copy (9) (6).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 6191,
+      "path": "Bug tìm kiếm (2)/1C22TAD_00000009_1676217770 - Copy (9).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 111160,
+      "path": "Bug tìm kiếm (2)/BD_29_16082022 - Copy (10).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 111154,
+      "path": "Bug tìm kiếm (2)/BD_29_16082022 - Copy (2).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 111152,
+      "path": "Bug tìm kiếm (2)/BD_29_16082022 - Copy (3).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 111153,
+      "path": "Bug tìm kiếm (2)/BD_29_16082022 - Copy (4).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 111155,
+      "path": "Bug tìm kiếm (2)/BD_29_16082022 - Copy (5).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 111156,
+      "path": "Bug tìm kiếm (2)/BD_29_16082022 - Copy (6).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 111157,
+      "path": "Bug tìm kiếm (2)/BD_29_16082022 - Copy (7).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 111158,
+      "path": "Bug tìm kiếm (2)/BD_29_16082022 - Copy (8).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 111159,
+      "path": "Bug tìm kiếm (2)/BD_29_16082022 - Copy (9).xml",
+      "type": "file"
+    },
+    {
+      "file_id": 111161,
+      "path": "Bug tìm kiếm (2)/BD_29_16082022 - Copy.xml",
+      "type": "file"
+    },
+    {
+      "file_id": 111162,
+      "path": "Bug tìm kiếm (2)/BD_29_16082022.xml",
+      "type": "file"
+    }
+  ]
+}

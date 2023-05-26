@@ -1,0 +1,11 @@
+<phpunit bootstrap="bootstrap.php" colors="true">
+    <!--
+    SPDX-FileCopyrightText: Hoang Minh Giap <giap.hoangminh10@mobifone.vn>
+    SPDX-License-Identifier: AGPL-3.0-or-later
+    -->
+    <testsuites>
+        <testsuite name="integration">
+            <directory>./Integration</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

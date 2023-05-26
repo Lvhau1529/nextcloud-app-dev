@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <!--
+    SPDX-FileCopyrightText: Hoang Minh Giap <giap.hoangminh10@mobifone.vn>
+    SPDX-License-Identifier: CC0-1.0
+    -->
+    <id>mbfocr</id>
+    <name>Mbf Ocr</name>
+    <summary>Mobifone OCR tool</summary>
+    <description><![CDATA[Mobifone OCR tool]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="giap.hoangminh10@mobifone.vn" >Hoang Minh Giap</author>
+    <namespace>MbfOcr</namespace>
+    <category>customization</category>
+    <bugs>http://mbfocr.nextcloud.app</bugs>
+    <dependencies>
+        <nextcloud min-version="24" max-version="24"/>
+    </dependencies>
+    <!-- <navigations>
+        <navigation>
+            <name>Mbf Ocr</name>
+            <route>mbfocr.page.index</route>
+        </navigation>
+    </navigations> -->
+</info>

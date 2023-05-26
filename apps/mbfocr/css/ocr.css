@@ -1,0 +1,50 @@
+#content-table-ocr-file tbody tr {
+    background-color: white;
+}
+
+#content-table-ocr-file tbody tr td {
+    border: none;
+    padding: 0 30px;
+}
+
+#content-table-ocr-file tbody tr td button#close-content-popup-ocr-file {
+    background-color: #0082C8;
+    border-radius: 6px;
+    border-color: #757575;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 12px;
+}
+
+#content-table-ocr-file tbody tr td button#close-content-popup-ocr-file:hover {
+    border-color: #FFFFFF;
+}
+
+
+#content-table-ocr-file tbody tr td.ocr-file-popup-title {
+    font-weight: 500;
+    font-size: 21px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 36px;
+}
+
+.cursor-auto {
+    cursor: auto;
+}
+
+.scissors {
+    height: 16px; /* image height */
+    width: 16px;
+    /* margin: auto auto; */
+    background-image: url('../img/cXciH.png');
+    background-repeat: no-repeat;
+    /* background-position: right; */
+    position: relative;
+    overflow: hidden;
+    background-size: contain;
+    margin: 15px 15px 0!important;
+}

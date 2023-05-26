@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <!--
+    SPDX-FileCopyrightText: MobiFone It <hung.nduy@mobifone.vn>
+    SPDX-License-Identifier: CC0-1.0
+    -->
+    <id>mbfinvoiceparser</id>
+    <name>Mbf Invoice Parser</name>
+    <summary>Bóc tách thông tin xml</summary>
+    <description><![CDATA[Bóc tách thông tin xml]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="hung.nduy@mobifone.vn" >MobiFone It</author>
+    <namespace>MbfInvoiceParser</namespace>
+    <category>tools</category>
+    <bugs>https://it.mobifone.vn/</bugs>
+    <dependencies>
+        <nextcloud min-version="24" max-version="24"/>
+    </dependencies>
+</info>

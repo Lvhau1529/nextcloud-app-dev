@@ -1,0 +1,102 @@
+select:disabled,
+button:not(.button-vue):disabled,
+.button:disabled,
+input[type=button]:disabled,
+input[type=submit]:disabled,
+input[type=reset]:disabled {
+  cursor: -webkit-fill-available;
+}
+
+div.select2-drop .select2-search input:disabled,
+input[type=submit]:disabled,
+input[type=button]:disabled,
+input[type=reset]:disabled,
+button:not(.button-vue):disabled,
+.button:disabled,
+.pager li a:disabled {
+  color: rgba(0, 0, 0, 0.25);
+  background-color: #f5f5f5;
+  opacity: 1;
+  margin: 0;
+  padding: 0 15px;
+  font-size: 14px;
+  color: -webkit-fill-available;
+  border: -webkit-fill-available;
+}
+
+div.select2-drop .select2-search input,
+input[type=submit],
+input[type=button],
+input[type=reset],
+button:not(.button-vue),
+.button,
+.pager li a {
+  margin: unset;
+  padding: 0 15px;
+}
+
+::v-deep button:not(.button-vue),
+::v-deep .button,
+::v-deep input[type=button],
+::v-deep input[type=submit],
+::v-deep input[type=reset] {
+  font-weight: 400;
+  border-radius: 4px;
+}
+
+select,
+button:not(.button-vue),
+.button,
+input[type=button],
+input[type=submit],
+input[type=reset] {
+  width: unset;
+  min-height: unset;
+  font-size: 14px;
+}
+
+::v-deep input:not([type=range]):not(.input-field__input):not([type=submit]):not([type=button]):not([type=reset]):not(.multiselect__input):not(.select2-input):not(.action-input__input):not(.ant-pagination-options-quick-jumper),
+::v-deep select,
+::v-deep div[contenteditable=true],
+::v-deep textarea {
+  margin: 0;
+  padding: 0;
+  padding: 4px 11px;
+  color: rgba(0, 0, 0, 0.65);
+  font-size: 14px;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #d9d9d9;
+  border-radius: 4px;
+}
+
+::v-deep select,
+::v-deep button:not(.button-vue),
+::v-deep input,
+textarea,
+div[contenteditable=true],
+div[contenteditable=false] {
+  min-height: unset;
+}
+
+::v-deep input:not([type=radio]):not([type=checkbox]):not([type=range]):not([type=submit]):not([type=button]):not([type=reset]):not([type=color]):not([type=file]):not([type=image]) {
+  height: -webkit-fill-available;
+}
+
+::v-deep table {
+  white-space: unset;
+}
+
+::v-deep .ant-btn-primary {
+  color: #fff;
+  background-color: #1890ff;
+  border-color: #1890ff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.12);
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+}
+
+::v-deep .content:not(#content-vue) ::v-deep .focus-visible,
+::v-deep .app-navigation:not(#app-navigation-vue) ::v-deep :focus-visible {
+  box-shadow: unset;
+  outline: none;
+}

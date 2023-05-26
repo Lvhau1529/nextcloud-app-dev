@@ -1,0 +1,57 @@
+#content-table-confirm-delete-ocr-file tbody tr {
+    background-color: white;
+}
+
+#content-table-confirm-delete-ocr-file tbody tr td {
+    border: none;
+    padding: 0 30px;
+}
+
+#content-table-confirm-delete-ocr-file tbody tr td button#submit-delete-confirm-delete-ocr-file {
+    background-color: #0082C8;
+    border-radius: 6px;
+    border-color: #757575;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 12px;
+}
+
+#content-table-confirm-delete-ocr-file tbody tr td button#submit-delete-confirm-delete-ocr-file:hover {
+    border-color: #FFFFFF;
+}
+
+#content-table-confirm-delete-ocr-file tbody tr td button#close-content-popup-confirm-delete-ocr-file {
+    background-color: #0082C8;
+    border-radius: 6px;
+    border-color: #757575;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding: 12px;
+}
+
+#content-table-confirm-delete-ocr-file tbody tr td button#close-content-popup-confirm-delete-ocr-file:hover {
+    border-color: #FFFFFF;
+}
+
+
+#content-table-confirm-delete-ocr-file tbody tr td.confirm-delete-ocr-file-popup-title {
+    font-weight: 500;
+    font-size: 21px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 36px;
+}
+
+.cursor-auto {
+    cursor: auto;
+}
+
+/* .fileactions .action-share {
+    display: none!important;
+} */
